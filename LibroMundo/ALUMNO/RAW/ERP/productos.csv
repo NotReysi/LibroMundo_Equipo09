@@ -1,0 +1,1421 @@
+﻿producto_id,sku,producto,categoria,marca,costo,precio_lista,activo,formato
+LM-P00001,LM000001,Académico Modelo 0001,Infantil,Marca A,1354.92,1952.53,SI,Físico
+LM-P00002,LM000002,Digital Modelo 0002,No ficción,Marca C,2075.79,3354.27,NO,Físico
+LM-P00003,LM000003,Infantil Modelo 0003,Infantil,Marca A,291.05,466.53,SI,Físico
+LM-P00004,LM000004,Ficción Modelo 0004,Ficción,Marca J,1042.07,1626.93,SI,Físico
+LM-P00005,LM000005,Digital Modelo 0005,Académico,Marca G,921.5,1412.48,NO,Físico
+LM-P00006,LM000006,Ficción Modelo 0006,Infantil,Marca E,244.75,409.4,SI,Audiolibro
+LM-P00007,LM000007,Papelería Modelo 0007,Digital,Marca H,897.74,1088.29,SI,Digital
+LM-P00008,LM000008,Digital Modelo 0008,No ficción,Marca E,177.12,298.96,SI,Físico
+LM-P00009,LM000009,Académico Modelo 0009,Juegos,Marca C,2021.5,2733.64,SI,Audiolibro
+LM-P00010,LM000010,Papelería Modelo 0010,Académico,Marca D,544.05,916.9,SI,Físico
+LM-P00011,LM000011,Académico Modelo 0011,Académico,Marca H,526.53,833.6,SI,Digital
+LM-P00012,LM000012,Infantil Modelo 0012,Ficción,Marca I,118.68,164.03,SI,Físico
+LM-P00013,LM000013,Digital Modelo 0013,Juegos,Marca D,1088.96,1748.87,NO,Físico
+LM-P00014,LM000014,Digital Modelo 0014,Ficción,Marca K,2108.76,2673.03,SI,Digital
+LM-P00015,LM000015,Juegos Modelo 0015,Académico,Marca C,1067.58,1495.58,SI,Físico
+LM-P00016,LM000016,Académico Modelo 0016,No ficción,Marca K,1837.97,2620.01,SI,Físico
+LM-P00017,LM000017,Ficción Modelo 0017,Digital,Marca D,1279.89,1551.24,SI,Físico
+LM-P00018,LM000018,Digital Modelo 0018,No ficción,Marca C,1622.06,2112.64,SI,Digital
+LM-P00019,LM000019,Académico Modelo 0019,Infantil,Marca K,2094.62,3409.24,SI,Digital
+LM-P00020,LM000020,Académico Modelo 0020,Infantil,Marca D,1034.3,1603.14,SI,Físico
+LM-P00021,LM000021,Ficción Modelo 0021,Juegos,Marca I,1723.01,2753.9,SI,Físico
+LM-P00022,LM000022,No ficción Modelo 0022,Infantil,Marca H,1428.39,2129.74,SI,Físico
+LM-P00023,LM000023,No ficción Modelo 0023,Infantil,Marca C,866.59,1424.04,SI,Digital
+LM-P00024,LM000024,No ficción Modelo 0024,Papelería,Marca A,644.12,874.11,SI,Físico
+LM-P00025,LM000025,Académico Modelo 0025,Juegos,Marca E,60.22,100.97,SI,Físico
+LM-P00026,LM000026,No ficción Modelo 0026,Digital,Marca A,1120.05,1856.42,SI,Físico
+LM-P00027,LM000027,Papelería Modelo 0027,No ficción,Marca J,1068.2,1505.28,SI,Digital
+LM-P00028,LM000028,Digital Modelo 0028,Juegos,Marca C,958.09,1628.4,SI,Digital
+LM-P00029,LM000029,Digital Modelo 0029,Infantil,Marca G,2082.99,3457.98,SI,Físico
+LM-P00030,LM000030,Ficción Modelo 0030,Ficción,Marca M,403.11,525.85,SI,Físico
+LM-P00031,LM000031,Papelería Modelo 0031,Ficción,Marca I,1098.19,1854.6,SI,Audiolibro
+LM-P00032,LM000032,Digital Modelo 0032,No ficción,Marca C,2075.32,2893.29,SI,Digital
+LM-P00033,LM000033,Juegos Modelo 0033,Juegos,Marca E,1893.88,2722.69,SI,Digital
+LM-P00034,LM000034,Papelería Modelo 0034,Ficción,Marca C,793.72,994.61,SI,Físico
+LM-P00035,LM000035,Infantil Modelo 0035,Infantil,Marca K,750.55,1046.35,SI,Físico
+LM-P00036,LM000036,No ficción Modelo 0036,Juegos,Marca C,1019.23,1391.48,SI,Físico
+LM-P00037,LM000037,No ficción Modelo 0037,Digital,Marca E,953.15,1519.79,SI,Físico
+LM-P00038,LM000038,Académico Modelo 0038,Digital,Marca N,1338.85,2042.16,SI,Físico
+LM-P00039,LM000039,Académico Modelo 0039,No ficción,Marca E,1452.96,2368.78,SI,Físico
+LM-P00040,LM000040,No ficción Modelo 0040,Académico,Marca A,958.76,1432.66,SI,Físico
+LM-P00041,LM000041,Digital Modelo 0041,Infantil,Marca F,1022.78,1349.31,SI,Digital
+LM-P00042,LM000042,Académico Modelo 0042,No ficción,Marca F,1295.54,1845.14,SI,Físico
+LM-P00043,LM000043,Digital Modelo 0043,Infantil,Marca G,89.61,141.03,SI,Digital
+LM-P00044,LM000044,No ficción Modelo 0044,Ficción,Marca K,2170.93,2576.67,SI,Audiolibro
+LM-P00045,LM000045,Académico Modelo 0045,Papelería,Marca D,2271.48,3109.74,SI,Físico
+LM-P00046,LM000046,Infantil Modelo 0046,Papelería,Marca F,1950.21,3278.29,SI,Físico
+LM-P00047,LM000047,Infantil Modelo 0047,No ficción,Marca H,2081.24,3451.5,SI,Digital
+LM-P00048,LM000048,Juegos Modelo 0048,Ficción,Marca J,1604.35,2108.52,SI,Físico
+LM-P00049,LM000049,Infantil Modelo 0049,No ficción,Marca L,70.07,96.11,SI,Físico
+LM-P00050,LM000050,Académico Modelo 0050,Digital,Marca C,220.99,303.43,SI,Físico
+LM-P00051,LM000051,No ficción Modelo 0051,Infantil,Marca A,384.04,553.88,SI,Audiolibro
+LM-P00052,LM000052,Juegos Modelo 0052,Juegos,Marca D,2372.67,3066.73,SI,Físico
+LM-P00053,LM000053,Papelería Modelo 0053,Papelería,Marca J,1657.29,2613.29,SI,Físico
+LM-P00054,LM000054,Digital Modelo 0054,Juegos,Marca A,476.65,581.13,SI,Digital
+LM-P00055,LM000055,Ficción Modelo 0055,Juegos,Marca E,439.27,738.18,SI,Físico
+LM-P00056,LM000056,Digital Modelo 0056,Académico,Marca B,2066.99,3339.24,SI,Físico
+LM-P00057,LM000057,Infantil Modelo 0057,Ficción,Marca M,746.29,1005.46,SI,Físico
+LM-P00058,LM000058,Ficción Modelo 0058,Digital,Marca J,608.71,1027.92,SI,Físico
+LM-P00059,LM000059,Digital Modelo 0059,Digital,Marca D,948.92,1523.64,SI,Físico
+LM-P00060,LM000060,Juegos Modelo 0060,Ficción,Marca F,2178.71,2906.39,SI,Físico
+LM-P00061,LM000061,Papelería Modelo 0061,Papelería,Marca C,1148.8,1545.95,SI,Físico
+LM-P00062,LM000062,Papelería Modelo 0062,Digital,Marca C,2058.17,2947.88,SI,Físico
+LM-P00063,LM000063,No ficción Modelo 0063,Juegos,Marca C,1656.05,2404.81,SI,Físico
+LM-P00064,LM000064,Ficción Modelo 0064,Papelería,Marca L,659.89,851.13,SI,Digital
+LM-P00065,LM000065,Juegos Modelo 0065,Ficción,Marca B,2412.97,4003.53,SI,Físico
+LM-P00066,LM000066,Académico Modelo 0066,Infantil,Marca D,318.66,546.17,SI,Físico
+LM-P00067,LM000067,No ficción Modelo 0067,Digital,Marca N,1896.69,2370.43,SI,Físico
+LM-P00068,LM000068,Digital Modelo 0068,No ficción,Marca I,1234.95,1962.19,SI,Físico
+LM-P00069,LM000069,Infantil Modelo 0069,Papelería,Marca N,307.65,461.52,SI,Audiolibro
+LM-P00070,LM000070,Juegos Modelo 0070,Juegos,Marca D,1404.55,1902.63,SI,Audiolibro
+LM-P00071,LM000071,Digital Modelo 0071,Papelería,Marca J,1453.87,2150.65,SI,Físico
+LM-P00072,LM000072,No ficción Modelo 0072,No ficción,Marca M,918.52,1547.83,SI,Físico
+LM-P00073,LM000073,Infantil Modelo 0073,Juegos,Marca H,1619.78,2149.83,SI,Físico
+LM-P00074,LM000074,Ficción Modelo 0074,Digital,Marca A,124.76,181.98,SI,Digital
+LM-P00075,LM000075,Infantil Modelo 0075,Digital,Marca B,451.59,657.51,SI,Físico
+LM-P00076,LM000076,Ficción Modelo 0076,Ficción,Marca H,1555.28,2498.8,SI,Físico
+LM-P00077,LM000077,Académico Modelo 0077,Juegos,Marca L,1401.8,1705.72,SI,Físico
+LM-P00078,LM000078,No ficción Modelo 0078,Digital,Marca G,1450.1,1866.49,SI,Físico
+LM-P00079,LM000079,Digital Modelo 0079,Juegos,Marca N,1419.22,2266.32,SI,Digital
+LM-P00080,LM000080,Ficción Modelo 0080,No ficción,Marca E,258.76,407.42,SI,Físico
+LM-P00081,LM000081,Papelería Modelo 0081,Juegos,Marca J,990.53,1316.27,NO,Físico
+LM-P00082,LM000082,Juegos Modelo 0082,Ficción,Marca B,1402.46,1772.6,SI,Físico
+LM-P00083,LM000083,Infantil Modelo 0083,No ficción,Marca F,2317.93,4054.43,SI,Digital
+LM-P00084,LM000084,Juegos Modelo 0084,Académico,Marca H,2172.73,2964.11,SI,Físico
+LM-P00085,LM000085,Juegos Modelo 0085,Académico,Marca A,1225.12,1881.37,SI,Físico
+LM-P00086,LM000086,Ficción Modelo 0086,Ficción,Marca G,1954.12,2655.01,SI,Físico
+LM-P00087,LM000087,No ficción Modelo 0087,Papelería,Marca I,962.17,1270.51,SI,Audiolibro
+LM-P00088,LM000088,Juegos Modelo 0088,Papelería,Marca J,1385.65,2108.95,SI,Físico
+LM-P00089,LM000089,No ficción Modelo 0089,Papelería,Marca I,1309.12,1941.72,SI,Físico
+LM-P00090,LM000090,Juegos Modelo 0090,Ficción,Marca H,1120.64,1473.98,SI,Físico
+LM-P00091,LM000091,Infantil Modelo 0091,Juegos,Marca I,79.76,128.81,SI,Físico
+LM-P00092,LM000092,Infantil Modelo 0092,Juegos,Marca C,700.98,1151.97,SI,Físico
+LM-P00093,LM000093,Digital Modelo 0093,Académico,Marca A,1992.92,2551.06,SI,Digital
+LM-P00094,LM000094,No ficción Modelo 0094,Ficción,Marca N,2337.31,3009.41,SI,Físico
+LM-P00095,LM000095,Digital Modelo 0095,Papelería,Marca D,243.26,341.09,SI,Digital
+LM-P00096,LM000096,Juegos Modelo 0096,Papelería,Marca I,82.12,129.36,SI,Audiolibro
+LM-P00097,LM000097,Ficción Modelo 0097,Digital,Marca E,2276.55,3130.62,NO,Físico
+LM-P00098,LM000098,Digital Modelo 0098,Infantil,Marca M,2290.13,2778.03,SI,Físico
+LM-P00099,LM000099,No ficción Modelo 0099,No ficción,Marca A,897.27,1386.74,SI,Digital
+LM-P00100,LM000100,Digital Modelo 0100,Digital,Marca B,830.07,1418.26,SI,Físico
+LM-P00101,LM000101,Papelería Modelo 0101,Ficción,Marca J,1741.39,2540.03,SI,Físico
+LM-P00102,LM000102,No ficción Modelo 0102,Digital,Marca L,689.34,944.25,SI,Físico
+LM-P00103,LM000103,Papelería Modelo 0103,Digital,Marca F,2072.99,3485.79,SI,Físico
+LM-P00104,LM000104,Infantil Modelo 0104,No ficción,Marca D,23.34,31.83,SI,Físico
+LM-P00105,LM000105,Infantil Modelo 0105,Ficción,Marca B,910.67,1235.73,SI,Físico
+LM-P00106,LM000106,Ficción Modelo 0106,Papelería,Marca D,1171.27,1801.13,SI,Físico
+LM-P00107,LM000107,Juegos Modelo 0107,Infantil,Marca G,1250.77,2067.55,SI,Audiolibro
+LM-P00108,LM000108,Ficción Modelo 0108,Académico,Marca I,1261.32,1698.24,SI,Físico
+LM-P00109,LM000109,Juegos Modelo 0109,Papelería,Marca F,2160.93,2627.81,SI,Físico
+LM-P00110,LM000110,Digital Modelo 0110,Ficción,Marca N,875.25,1428.57,SI,Físico
+LM-P00111,LM000111,Papelería Modelo 0111,Papelería,Marca J,136.86,190.83,SI,Físico
+LM-P00112,LM000112,Papelería Modelo 0112,Juegos,Marca B,1595.95,2610.49,SI,Físico
+LM-P00113,LM000113,No ficción Modelo 0113,Juegos,Marca K,96.13,127.4,SI,Físico
+LM-P00114,LM000114,No ficción Modelo 0114,Papelería,Marca K,1025.85,1571.61,SI,Físico
+LM-P00115,LM000115,Académico Modelo 0115,Infantil,Marca M,1666.32,2235.84,SI,Físico
+LM-P00116,LM000116,Académico Modelo 0116,Ficción,Marca G,1543.29,2668.0,SI,Audiolibro
+LM-P00117,LM000117,No ficción Modelo 0117,Infantil,Marca J,364.73,557.0,SI,Físico
+LM-P00118,LM000118,Académico Modelo 0118,Juegos,Marca L,1561.27,2272.12,SI,Físico
+LM-P00119,LM000119,Juegos Modelo 0119,Digital,Marca F,688.21,990.63,SI,Físico
+LM-P00120,LM000120,No ficción Modelo 0120,Papelería,Marca F,236.81,342.88,SI,Físico
+LM-P00121,LM000121,Académico Modelo 0121,No ficción,Marca G,630.12,907.74,SI,Digital
+LM-P00122,LM000122,Juegos Modelo 0122,Digital,Marca H,2234.65,3903.46,NO,Físico
+LM-P00123,LM000123,Infantil Modelo 0123,Infantil,Marca J,1542.63,1999.7,SI,Digital
+LM-P00124,LM000124,Académico Modelo 0124,Infantil,Marca G,116.97,142.13,SI,Físico
+LM-P00125,LM000125,Digital Modelo 0125,Infantil,Marca I,479.91,646.6,SI,Físico
+LM-P00126,LM000126,Infantil Modelo 0126,Académico,Marca E,1557.56,2009.9,SI,Físico
+LM-P00127,LM000127,Académico Modelo 0127,No ficción,Marca I,169.09,259.87,SI,Digital
+LM-P00128,LM000128,Infantil Modelo 0128,Digital,Marca I,552.38,688.16,SI,Físico
+LM-P00129,LM000129,Juegos Modelo 0129,Infantil,Marca C,2143.8,2719.17,SI,Físico
+LM-P00130,LM000130,Infantil Modelo 0130,No ficción,Marca I,250.15,363.34,SI,Físico
+LM-P00131,LM000131,Ficción Modelo 0131,Digital,Marca C,1788.0,2354.03,SI,Digital
+LM-P00132,LM000132,Académico Modelo 0132,Infantil,Marca E,603.4,798.53,SI,Físico
+LM-P00133,LM000133,Ficción Modelo 0133,No ficción,Marca A,1034.78,1784.89,SI,Físico
+LM-P00134,LM000134,Académico Modelo 0134,No ficción,Marca H,1055.1,1711.46,SI,Físico
+LM-P00135,LM000135,Digital Modelo 0135,Académico,Marca D,1814.65,2604.38,SI,Físico
+LM-P00136,LM000136,No ficción Modelo 0136,No ficción,Marca N,1071.02,1473.21,SI,Físico
+LM-P00137,LM000137,Infantil Modelo 0137,Digital,Marca F,2294.8,3821.33,SI,Físico
+LM-P00138,LM000138,Académico Modelo 0138,Digital,Marca I,636.82,836.01,SI,Físico
+LM-P00139,LM000139,Infantil Modelo 0139,No ficción,Marca M,917.43,1394.86,SI,Físico
+LM-P00140,LM000140,Académico Modelo 0140,Ficción,Marca F,1227.55,2073.35,SI,Físico
+LM-P00141,LM000141,Digital Modelo 0141,Papelería,Marca E,1583.68,2729.57,SI,Audiolibro
+LM-P00142,LM000142,Infantil Modelo 0142,Infantil,Marca F,347.34,445.77,SI,Digital
+LM-P00143,LM000143,Papelería Modelo 0143,Digital,Marca I,60.19,73.89,SI,Físico
+LM-P00144,LM000144,Infantil Modelo 0144,Ficción,Marca L,792.67,954.98,SI,Físico
+LM-P00145,LM000145,Digital Modelo 0145,Infantil,Marca K,1042.62,1379.64,SI,Digital
+LM-P00146,LM000146,Académico Modelo 0146,Digital,Marca J,2249.66,3171.13,SI,Físico
+LM-P00147,LM000147,Infantil Modelo 0147,Ficción,Marca A,1852.59,2812.63,SI,Físico
+LM-P00148,LM000148,Digital Modelo 0148,Digital,Marca A,130.67,222.21,SI,Audiolibro
+LM-P00149,LM000149,Papelería Modelo 0149,Juegos,Marca D,1644.95,2457.21,SI,Digital
+LM-P00150,LM000150,Académico Modelo 0150,Juegos,Marca D,1295.35,2165.98,SI,Físico
+LM-P00151,LM000151,Juegos Modelo 0151,Juegos,Marca M,2072.34,3177.14,SI,Digital
+LM-P00152,LM000152,Ficción Modelo 0152,Digital,Marca G,813.73,1286.06,SI,Físico
+LM-P00153,LM000153,Académico Modelo 0153,Papelería,Marca G,1331.53,2266.04,SI,Físico
+LM-P00154,LM000154,Infantil Modelo 0154,Digital,Marca D,1339.25,2257.49,NO,Audiolibro
+LM-P00155,LM000155,Infantil Modelo 0155,Académico,Marca D,1750.27,2301.79,SI,Físico
+LM-P00156,LM000156,Juegos Modelo 0156,Ficción,Marca K,73.25,115.64,SI,Físico
+LM-P00157,LM000157,Ficción Modelo 0157,Ficción,Marca J,1856.63,3235.37,SI,Físico
+LM-P00158,LM000158,Infantil Modelo 0158,Infantil,Marca C,897.72,1134.29,SI,Físico
+LM-P00159,LM000159,Papelería Modelo 0159,Infantil,Marca L,230.48,375.66,SI,Físico
+LM-P00160,LM000160,Digital Modelo 0160,Académico,Marca D,1991.96,2765.71,NO,Físico
+LM-P00161,LM000161,Papelería Modelo 0161,Papelería,Marca E,1684.02,2548.23,SI,Digital
+LM-P00162,LM000162,Digital Modelo 0162,Infantil,Marca M,2125.23,2785.53,SI,Físico
+LM-P00163,LM000163,Académico Modelo 0163,Digital,Marca F,1256.04,1795.81,SI,Físico
+LM-P00164,LM000164,Juegos Modelo 0164,Juegos,Marca B,236.53,319.35,SI,Audiolibro
+LM-P00165,LM000165,No ficción Modelo 0165,No ficción,Marca J,1096.9,1857.41,SI,Físico
+LM-P00166,LM000166,Infantil Modelo 0166,Ficción,Marca A,2171.49,3692.19,SI,Físico
+LM-P00167,LM000167,Académico Modelo 0167,Ficción,Marca L,422.3,731.29,SI,Físico
+LM-P00168,LM000168,Digital Modelo 0168,Infantil,Marca B,2080.05,3620.73,SI,Físico
+LM-P00169,LM000169,Infantil Modelo 0169,Papelería,Marca L,2268.38,3225.09,SI,Físico
+LM-P00170,LM000170,Académico Modelo 0170,Juegos,Marca B,1568.75,2395.95,SI,Digital
+LM-P00171,LM000171,Académico Modelo 0171,Ficción,Marca D,2056.94,3140.33,SI,Físico
+LM-P00172,LM000172,No ficción Modelo 0172,Ficción,Marca H,1627.71,2490.46,SI,Digital
+LM-P00173,LM000173,Digital Modelo 0173,No ficción,Marca N,2102.88,3112.41,SI,Físico
+LM-P00174,LM000174,No ficción Modelo 0174,Digital,Marca J,42.48,73.94,SI,Físico
+LM-P00175,LM000175,No ficción Modelo 0175,Académico,Marca C,692.99,830.27,SI,Audiolibro
+LM-P00176,LM000176,No ficción Modelo 0176,Académico,Marca J,2252.35,3678.22,SI,Digital
+LM-P00177,LM000177,No ficción Modelo 0177,Académico,Marca I,1547.76,2104.38,SI,Físico
+LM-P00178,LM000178,Ficción Modelo 0178,Papelería,Marca I,892.04,1482.64,SI,Físico
+LM-P00179,LM000179,Académico Modelo 0179,No ficción,Marca M,2160.91,3255.79,SI,Físico
+LM-P00180,LM000180,Digital Modelo 0180,Juegos,Marca D,540.22,754.89,SI,Físico
+LM-P00181,LM000181,Ficción Modelo 0181,Papelería,Marca B,259.26,329.54,SI,Físico
+LM-P00182,LM000182,Ficción Modelo 0182,Juegos,Marca K,939.71,1408.65,SI,Físico
+LM-P00183,LM000183,Digital Modelo 0183,Infantil,Marca B,153.54,192.89,SI,Físico
+LM-P00184,LM000184,Infantil Modelo 0184,No ficción,Marca A,593.98,1026.55,NO,Físico
+LM-P00185,LM000185,Digital Modelo 0185,Infantil,Marca C,1528.04,2606.01,SI,Físico
+LM-P00186,LM000186,Juegos Modelo 0186,Digital,Marca C,791.63,1099.9,SI,Físico
+LM-P00187,LM000187,Digital Modelo 0187,Digital,Marca D,2467.78,4317.08,SI,Físico
+LM-P00188,LM000188,Ficción Modelo 0188,Digital,Marca C,1470.06,2244.21,SI,Físico
+LM-P00189,LM000189,Papelería Modelo 0189,Juegos,Marca E,43.59,72.71,SI,Digital
+LM-P00190,LM000190,Papelería Modelo 0190,Digital,Marca F,1028.15,1546.33,SI,Físico
+LM-P00191,LM000191,Digital Modelo 0191,Académico,Marca G,1958.39,2987.07,SI,Físico
+LM-P00192,LM000192,Juegos Modelo 0192,Ficción,Marca L,1136.39,1612.99,SI,Físico
+LM-P00193,LM000193,Ficción Modelo 0193,No ficción,Marca I,1959.64,2610.92,SI,Físico
+LM-P00194,LM000194,Juegos Modelo 0194,Papelería,Marca G,797.12,1147.51,SI,Físico
+LM-P00195,LM000195,Digital Modelo 0195,Papelería,Marca K,1850.48,3030.91,SI,Físico
+LM-P00196,LM000196,Infantil Modelo 0196,Juegos,Marca A,1623.4,2785.38,SI,Audiolibro
+LM-P00197,LM000197,Infantil Modelo 0197,Digital,Marca J,1134.2,1847.81,SI,Físico
+LM-P00198,LM000198,No ficción Modelo 0198,Académico,Marca I,833.22,1236.59,SI,Físico
+LM-P00199,LM000199,Papelería Modelo 0199,Digital,Marca A,2420.58,3356.46,SI,Físico
+LM-P00200,LM000200,Infantil Modelo 0200,Juegos,Marca C,1303.47,1965.83,SI,Físico
+LM-P00201,LM000201,Digital Modelo 0201,No ficción,Marca M,1676.62,2399.71,SI,Digital
+LM-P00202,LM000202,Juegos Modelo 0202,Juegos,Marca K,410.78,547.24,SI,Digital
+LM-P00203,LM000203,Ficción Modelo 0203,Ficción,Marca F,1393.78,2140.86,SI,Físico
+LM-P00204,LM000204,No ficción Modelo 0204,No ficción,Marca N,661.54,882.99,SI,Audiolibro
+LM-P00205,LM000205,No ficción Modelo 0205,Papelería,Marca M,2067.92,3520.92,SI,Audiolibro
+LM-P00206,LM000206,Juegos Modelo 0206,Papelería,Marca C,976.22,1628.54,SI,Físico
+LM-P00207,LM000207,Papelería Modelo 0207,No ficción,Marca L,1751.59,2208.34,SI,Digital
+LM-P00208,LM000208,Juegos Modelo 0208,Papelería,Marca I,2396.86,3244.05,SI,Físico
+LM-P00209,LM000209,Infantil Modelo 0209,No ficción,Marca F,1126.46,1858.11,SI,Digital
+LM-P00210,LM000210,Académico Modelo 0210,Infantil,Marca H,1531.39,2364.52,SI,Audiolibro
+LM-P00211,LM000211,Infantil Modelo 0211,Digital,Marca B,1533.74,1961.86,SI,Físico
+LM-P00212,LM000212,Juegos Modelo 0212,Académico,Marca A,875.93,1088.13,SI,Físico
+LM-P00213,LM000213,Juegos Modelo 0213,No ficción,Marca K,1841.08,2545.2,SI,Físico
+LM-P00214,LM000214,Digital Modelo 0214,Juegos,Marca E,1185.3,1794.72,SI,Físico
+LM-P00215,LM000215,Infantil Modelo 0215,Juegos,Marca L,1366.21,1955.96,SI,Físico
+LM-P00216,LM000216,No ficción Modelo 0216,Papelería,Marca K,2066.84,2852.0,SI,Físico
+LM-P00217,LM000217,Papelería Modelo 0217,No ficción,Marca F,2137.5,3407.91,SI,Físico
+LM-P00218,LM000218,Digital Modelo 0218,No ficción,Marca B,2141.27,2886.87,SI,Físico
+LM-P00219,LM000219,Infantil Modelo 0219,Infantil,Marca G,496.46,703.33,SI,Físico
+LM-P00220,LM000220,No ficción Modelo 0220,Papelería,Marca D,1160.33,1542.83,SI,Físico
+LM-P00221,LM000221,Juegos Modelo 0221,No ficción,Marca H,1495.32,2361.77,SI,Audiolibro
+LM-P00222,LM000222,No ficción Modelo 0222,Juegos,Marca B,1314.04,1864.92,SI,Físico
+LM-P00223,LM000223,Académico Modelo 0223,Papelería,Marca K,446.65,751.07,SI,Físico
+LM-P00224,LM000224,Digital Modelo 0224,Académico,Marca N,832.22,1089.36,SI,Audiolibro
+LM-P00225,LM000225,Papelería Modelo 0225,Papelería,Marca H,1720.74,2031.73,SI,Físico
+LM-P00226,LM000226,Juegos Modelo 0226,No ficción,Marca L,467.65,571.99,SI,Digital
+LM-P00227,LM000227,No ficción Modelo 0227,Ficción,Marca I,2006.37,3168.92,SI,Audiolibro
+LM-P00228,LM000228,Digital Modelo 0228,No ficción,Marca J,33.95,45.83,SI,Digital
+LM-P00229,LM000229,Académico Modelo 0229,Académico,Marca M,2290.39,2921.35,SI,Digital
+LM-P00230,LM000230,Digital Modelo 0230,Ficción,Marca N,1975.21,3302.9,SI,Digital
+LM-P00231,LM000231,Papelería Modelo 0231,Digital,Marca D,991.19,1365.26,SI,Digital
+LM-P00232,LM000232,Académico Modelo 0232,Académico,Marca N,2355.54,3876.64,SI,Físico
+LM-P00233,LM000233,Digital Modelo 0233,Infantil,Marca A,680.72,1003.35,SI,Digital
+LM-P00234,LM000234,Académico Modelo 0234,Juegos,Marca G,671.95,1174.15,SI,Físico
+LM-P00235,LM000235,Papelería Modelo 0235,Digital,Marca C,1060.27,1405.49,SI,Audiolibro
+LM-P00236,LM000236,Papelería Modelo 0236,Digital,Marca L,1678.61,2102.62,SI,Físico
+LM-P00237,LM000237,Infantil Modelo 0237,Papelería,Marca H,2496.74,3758.8,SI,Audiolibro
+LM-P00238,LM000238,Infantil Modelo 0238,Papelería,Marca J,1112.01,1879.28,SI,Físico
+LM-P00239,LM000239,Académico Modelo 0239,No ficción,Marca M,149.56,184.5,SI,Físico
+LM-P00240,LM000240,Juegos Modelo 0240,Infantil,Marca B,204.85,283.93,SI,Físico
+LM-P00241,LM000241,Digital Modelo 0241,Infantil,Marca A,1322.8,1966.69,SI,Físico
+LM-P00242,LM000242,No ficción Modelo 0242,Papelería,Marca I,812.42,1384.4,SI,Digital
+LM-P00243,LM000243,Papelería Modelo 0243,Papelería,Marca A,1205.87,1910.72,SI,Físico
+LM-P00244,LM000244,Papelería Modelo 0244,Papelería,Marca F,2070.85,3174.42,NO,Físico
+LM-P00245,LM000245,Infantil Modelo 0245,Papelería,Marca F,1318.93,1730.05,SI,Físico
+LM-P00246,LM000246,Digital Modelo 0246,Juegos,Marca L,2314.79,2970.04,SI,Físico
+LM-P00247,LM000247,Ficción Modelo 0247,Digital,Marca E,1568.17,2658.97,NO,Físico
+LM-P00248,LM000248,Papelería Modelo 0248,Académico,Marca N,1069.09,1735.07,NO,Físico
+LM-P00249,LM000249,Juegos Modelo 0249,No ficción,Marca B,150.43,179.53,SI,Físico
+LM-P00250,LM000250,Juegos Modelo 0250,Digital,Marca D,2006.17,3091.14,SI,Físico
+LM-P00251,LM000251,Ficción Modelo 0251,Infantil,Marca F,1265.0,1517.43,SI,Digital
+LM-P00252,LM000252,Juegos Modelo 0252,Ficción,Marca M,470.71,738.18,SI,Digital
+LM-P00253,LM000253,Académico Modelo 0253,Digital,Marca H,58.98,98.97,SI,Físico
+LM-P00254,LM000254,No ficción Modelo 0254,Académico,Marca C,467.43,603.1,SI,Físico
+LM-P00255,LM000255,Académico Modelo 0255,Ficción,Marca D,1491.26,2113.72,SI,Digital
+LM-P00256,LM000256,Juegos Modelo 0256,Académico,Marca H,990.38,1343.07,SI,Físico
+LM-P00257,LM000257,Juegos Modelo 0257,Infantil,Marca F,2060.29,2937.58,SI,Físico
+LM-P00258,LM000258,Digital Modelo 0258,Ficción,Marca C,2162.46,3671.01,SI,Digital
+LM-P00259,LM000259,Infantil Modelo 0259,Juegos,Marca C,752.97,1057.59,SI,Físico
+LM-P00260,LM000260,Académico Modelo 0260,No ficción,Marca C,893.17,1515.2,SI,Físico
+LM-P00261,LM000261,Ficción Modelo 0261,Ficción,Marca D,903.11,1389.39,SI,Físico
+LM-P00262,LM000262,Académico Modelo 0262,Ficción,Marca I,1037.3,1630.97,SI,Digital
+LM-P00263,LM000263,Digital Modelo 0263,Ficción,Marca I,1349.51,1850.73,SI,Físico
+LM-P00264,LM000264,No ficción Modelo 0264,Infantil,Marca B,1703.99,2095.83,NO,Físico
+LM-P00265,LM000265,Juegos Modelo 0265,Digital,Marca K,1074.95,1339.09,SI,Físico
+LM-P00266,LM000266,Papelería Modelo 0266,Académico,Marca K,308.7,407.73,SI,Físico
+LM-P00267,LM000267,Papelería Modelo 0267,Papelería,Marca F,1950.78,2584.82,SI,Físico
+LM-P00268,LM000268,Infantil Modelo 0268,Papelería,Marca E,977.2,1484.87,SI,Físico
+LM-P00269,LM000269,Académico Modelo 0269,No ficción,Marca D,1420.24,2167.9,NO,Físico
+LM-P00270,LM000270,Digital Modelo 0270,Juegos,Marca F,1475.35,2409.76,SI,Digital
+LM-P00271,LM000271,Ficción Modelo 0271,Digital,Marca E,205.64,266.06,SI,Físico
+LM-P00272,LM000272,Digital Modelo 0272,No ficción,Marca H,812.44,1237.57,SI,Digital
+LM-P00273,LM000273,Papelería Modelo 0273,Juegos,Marca C,1717.43,2245.45,SI,Físico
+LM-P00274,LM000274,Ficción Modelo 0274,No ficción,Marca G,2039.26,3287.46,SI,Físico
+LM-P00275,LM000275,Infantil Modelo 0275,Digital,Marca G,1997.93,2423.5,SI,Digital
+LM-P00276,LM000276,Digital Modelo 0276,Juegos,Marca H,1619.61,2060.31,SI,Físico
+LM-P00277,LM000277,Juegos Modelo 0277,Digital,Marca B,2153.41,3713.0,SI,Físico
+LM-P00278,LM000278,Papelería Modelo 0278,Juegos,Marca A,1294.47,2222.61,SI,Físico
+LM-P00279,LM000279,Infantil Modelo 0279,Digital,Marca L,2295.07,3996.02,SI,Físico
+LM-P00280,LM000280,Juegos Modelo 0280,Ficción,Marca G,1077.5,1330.1,SI,Físico
+LM-P00281,LM000281,No ficción Modelo 0281,Infantil,Marca E,536.03,757.17,SI,Físico
+LM-P00282,LM000282,Ficción Modelo 0282,Ficción,Marca D,436.62,748.82,SI,Físico
+LM-P00283,LM000283,Digital Modelo 0283,Juegos,Marca K,1875.46,2461.38,SI,Físico
+LM-P00284,LM000284,Juegos Modelo 0284,Académico,Marca F,976.43,1220.26,SI,Físico
+LM-P00285,LM000285,Ficción Modelo 0285,Juegos,Marca L,2057.28,2843.24,SI,Digital
+LM-P00286,LM000286,Juegos Modelo 0286,Papelería,Marca A,987.25,1578.5,SI,Físico
+LM-P00287,LM000287,Ficción Modelo 0287,Infantil,Marca M,2265.7,3792.09,SI,Físico
+LM-P00288,LM000288,Académico Modelo 0288,Digital,Marca C,731.27,1030.67,SI,Digital
+LM-P00289,LM000289,Infantil Modelo 0289,No ficción,Marca G,384.55,519.41,SI,Audiolibro
+LM-P00290,LM000290,Infantil Modelo 0290,Papelería,Marca I,959.62,1635.19,SI,Digital
+LM-P00291,LM000291,Papelería Modelo 0291,Ficción,Marca C,133.31,173.66,SI,Físico
+LM-P00292,LM000292,Papelería Modelo 0292,No ficción,Marca A,1153.28,1796.0,SI,Digital
+LM-P00293,LM000293,Papelería Modelo 0293,Ficción,Marca D,515.8,690.16,SI,Físico
+LM-P00294,LM000294,Juegos Modelo 0294,Digital,Marca G,672.63,890.18,SI,Digital
+LM-P00295,LM000295,No ficción Modelo 0295,Infantil,Marca G,553.75,683.97,SI,Físico
+LM-P00296,LM000296,Digital Modelo 0296,Juegos,Marca G,1225.71,1578.36,SI,Físico
+LM-P00297,LM000297,Infantil Modelo 0297,Ficción,Marca A,2022.88,2881.1,SI,Físico
+LM-P00298,LM000298,Infantil Modelo 0298,No ficción,Marca G,707.83,987.8,SI,Físico
+LM-P00299,LM000299,Papelería Modelo 0299,No ficción,Marca F,1347.9,2084.91,SI,Digital
+LM-P00300,LM000300,No ficción Modelo 0300,No ficción,Marca K,1082.3,1290.89,SI,Físico
+LM-P00301,LM000301,Infantil Modelo 0301,Juegos,Marca J,108.97,134.25,SI,Físico
+LM-P00302,LM000302,Académico Modelo 0302,Digital,Marca A,175.85,209.66,SI,Físico
+LM-P00303,LM000303,Infantil Modelo 0303,Ficción,Marca B,630.75,1022.12,SI,Digital
+LM-P00304,LM000304,Juegos Modelo 0304,Digital,Marca G,2223.96,3148.37,SI,Físico
+LM-P00305,LM000305,Infantil Modelo 0305,Ficción,Marca A,929.4,1461.68,SI,Digital
+LM-P00306,LM000306,No ficción Modelo 0306,Papelería,Marca E,1513.86,2193.55,SI,Físico
+LM-P00307,LM000307,Papelería Modelo 0307,No ficción,Marca L,1633.4,2130.91,SI,Físico
+LM-P00308,LM000308,Infantil Modelo 0308,Papelería,Marca N,1431.6,2376.59,SI,Físico
+LM-P00309,LM000309,Juegos Modelo 0309,No ficción,Marca I,1226.72,1936.18,SI,Físico
+LM-P00310,LM000310,Académico Modelo 0310,Infantil,Marca F,2093.87,3056.1,SI,Audiolibro
+LM-P00311,LM000311,Ficción Modelo 0311,Ficción,Marca N,235.98,407.43,SI,Físico
+LM-P00312,LM000312,Ficción Modelo 0312,Académico,Marca K,1755.81,2230.28,SI,Físico
+LM-P00313,LM000313,No ficción Modelo 0313,Juegos,Marca L,2301.17,3104.77,SI,Digital
+LM-P00314,LM000314,Ficción Modelo 0314,Papelería,Marca G,326.85,570.79,SI,Físico
+LM-P00315,LM000315,Ficción Modelo 0315,Académico,Marca I,1378.85,2216.64,SI,Físico
+LM-P00316,LM000316,Académico Modelo 0316,Infantil,Marca B,2481.36,3199.21,SI,Digital
+LM-P00317,LM000317,Académico Modelo 0317,Ficción,Marca M,315.15,430.37,SI,Físico
+LM-P00318,LM000318,Digital Modelo 0318,No ficción,Marca D,1224.45,1625.04,SI,Audiolibro
+LM-P00319,LM000319,Digital Modelo 0319,Digital,Marca A,628.02,774.78,SI,Físico
+LM-P00320,LM000320,Juegos Modelo 0320,Papelería,Marca D,1666.27,2444.93,SI,Físico
+LM-P00321,LM000321,Papelería Modelo 0321,Infantil,Marca J,1009.22,1445.19,SI,Físico
+LM-P00322,LM000322,Juegos Modelo 0322,No ficción,Marca B,1447.91,1917.98,SI,Físico
+LM-P00323,LM000323,Papelería Modelo 0323,Juegos,Marca J,617.43,872.66,NO,Físico
+LM-P00324,LM000324,Académico Modelo 0324,Infantil,Marca B,328.9,428.72,SI,Físico
+LM-P00325,LM000325,No ficción Modelo 0325,Juegos,Marca C,2438.47,3382.73,SI,Físico
+LM-P00326,LM000326,Juegos Modelo 0326,Infantil,Marca J,2111.56,3449.82,SI,Físico
+LM-P00327,LM000327,Infantil Modelo 0327,Infantil,Marca E,1621.83,2267.44,SI,Físico
+LM-P00328,LM000328,Académico Modelo 0328,Digital,Marca B,2206.14,3377.48,SI,Físico
+LM-P00329,LM000329,Ficción Modelo 0329,Digital,Marca J,1246.19,1564.69,SI,Físico
+LM-P00330,LM000330,Juegos Modelo 0330,Papelería,Marca M,2195.09,2913.66,SI,Físico
+LM-P00331,LM000331,No ficción Modelo 0331,Juegos,Marca H,886.28,1103.36,SI,Físico
+LM-P00332,LM000332,Infantil Modelo 0332,Juegos,Marca L,2472.93,3831.73,SI,Físico
+LM-P00333,LM000333,Académico Modelo 0333,Académico,Marca L,1931.86,2701.39,SI,Físico
+LM-P00334,LM000334,Digital Modelo 0334,Juegos,Marca M,183.48,269.09,SI,Físico
+LM-P00335,LM000335,No ficción Modelo 0335,Académico,Marca D,1951.6,2827.94,SI,Físico
+LM-P00336,LM000336,Infantil Modelo 0336,Papelería,Marca F,891.29,1336.64,SI,Físico
+LM-P00337,LM000337,No ficción Modelo 0337,Digital,Marca M,761.82,1179.58,SI,Audiolibro
+LM-P00338,LM000338,Ficción Modelo 0338,Ficción,Marca G,2293.99,3672.24,SI,Físico
+LM-P00339,LM000339,Ficción Modelo 0339,Académico,Marca J,124.44,209.95,SI,Físico
+LM-P00340,LM000340,Académico Modelo 0340,No ficción,Marca M,108.11,155.67,SI,Físico
+LM-P00341,LM000341,Infantil Modelo 0341,Infantil,Marca J,2120.52,3033.98,SI,Audiolibro
+LM-P00342,LM000342,No ficción Modelo 0342,Juegos,Marca K,1118.46,1953.66,SI,Físico
+LM-P00343,LM000343,Papelería Modelo 0343,No ficción,Marca I,1031.32,1251.5,SI,Físico
+LM-P00344,LM000344,Papelería Modelo 0344,Ficción,Marca L,2137.52,3129.11,SI,Digital
+LM-P00345,LM000345,Académico Modelo 0345,Ficción,Marca A,1753.98,2921.8,SI,Físico
+LM-P00346,LM000346,No ficción Modelo 0346,Papelería,Marca H,1959.5,2476.2,SI,Físico
+LM-P00347,LM000347,Infantil Modelo 0347,No ficción,Marca N,153.43,230.45,SI,Físico
+LM-P00348,LM000348,No ficción Modelo 0348,Juegos,Marca A,855.17,1292.28,NO,Digital
+LM-P00349,LM000349,Ficción Modelo 0349,Ficción,Marca L,1186.97,1739.54,SI,Físico
+LM-P00350,LM000350,Digital Modelo 0350,Papelería,Marca D,2284.72,3085.29,NO,Físico
+LM-P00351,LM000351,No ficción Modelo 0351,Académico,Marca D,2482.05,3474.42,SI,Audiolibro
+LM-P00352,LM000352,Papelería Modelo 0352,Juegos,Marca B,2089.04,3299.56,SI,Físico
+LM-P00353,LM000353,Ficción Modelo 0353,Infantil,Marca J,1903.18,2674.26,SI,Digital
+LM-P00354,LM000354,Infantil Modelo 0354,Académico,Marca N,404.4,585.13,SI,Físico
+LM-P00355,LM000355,No ficción Modelo 0355,Académico,Marca F,1435.75,2232.45,SI,Físico
+LM-P00356,LM000356,Digital Modelo 0356,Infantil,Marca L,2238.83,3914.57,SI,Físico
+LM-P00357,LM000357,Digital Modelo 0357,Ficción,Marca F,451.55,718.47,NO,Físico
+LM-P00358,LM000358,Papelería Modelo 0358,Juegos,Marca A,199.47,263.73,SI,Físico
+LM-P00359,LM000359,Digital Modelo 0359,Juegos,Marca F,1006.01,1418.95,SI,Digital
+LM-P00360,LM000360,Juegos Modelo 0360,Académico,Marca I,851.96,1362.25,SI,Físico
+LM-P00361,LM000361,Académico Modelo 0361,Infantil,Marca M,2380.4,2854.99,SI,Digital
+LM-P00362,LM000362,Infantil Modelo 0362,Papelería,Marca A,683.43,917.96,SI,Físico
+LM-P00363,LM000363,Académico Modelo 0363,Papelería,Marca H,2139.82,3598.6,SI,Físico
+LM-P00364,LM000364,Infantil Modelo 0364,Ficción,Marca C,102.27,132.96,SI,Físico
+LM-P00365,LM000365,No ficción Modelo 0365,Papelería,Marca G,1151.36,1779.72,SI,Físico
+LM-P00366,LM000366,Infantil Modelo 0366,Digital,Marca M,1561.55,2226.61,SI,Físico
+LM-P00367,LM000367,Digital Modelo 0367,No ficción,Marca B,1716.09,2741.83,SI,Físico
+LM-P00368,LM000368,Papelería Modelo 0368,No ficción,Marca D,1214.21,1961.34,SI,Físico
+LM-P00369,LM000369,Infantil Modelo 0369,Papelería,Marca E,1701.12,2428.56,SI,Físico
+LM-P00370,LM000370,Académico Modelo 0370,No ficción,Marca N,398.56,491.06,SI,Físico
+LM-P00371,LM000371,Infantil Modelo 0371,Digital,Marca N,237.22,296.99,SI,Digital
+LM-P00372,LM000372,Papelería Modelo 0372,Juegos,Marca F,186.48,300.91,SI,Físico
+LM-P00373,LM000373,Digital Modelo 0373,Juegos,Marca N,1298.25,1867.67,SI,Digital
+LM-P00374,LM000374,Digital Modelo 0374,No ficción,Marca N,435.9,623.04,SI,Físico
+LM-P00375,LM000375,Juegos Modelo 0375,No ficción,Marca J,1925.61,2889.95,SI,Digital
+LM-P00376,LM000376,Infantil Modelo 0376,Académico,Marca F,1695.89,2080.05,SI,Digital
+LM-P00377,LM000377,Digital Modelo 0377,Papelería,Marca C,387.72,568.45,SI,Físico
+LM-P00378,LM000378,Digital Modelo 0378,Digital,Marca D,135.49,204.31,SI,Físico
+LM-P00379,LM000379,Infantil Modelo 0379,Juegos,Marca I,953.17,1418.46,SI,Físico
+LM-P00380,LM000380,Digital Modelo 0380,Infantil,Marca G,1694.18,2667.65,NO,Físico
+LM-P00381,LM000381,Ficción Modelo 0381,Académico,Marca A,555.36,745.7,SI,Físico
+LM-P00382,LM000382,Papelería Modelo 0382,Infantil,Marca J,1211.15,2047.44,SI,Audiolibro
+LM-P00383,LM000383,No ficción Modelo 0383,Ficción,Marca G,113.96,152.52,SI,Físico
+LM-P00384,LM000384,No ficción Modelo 0384,No ficción,Marca G,1052.45,1368.24,SI,Físico
+LM-P00385,LM000385,Papelería Modelo 0385,Digital,Marca D,1388.31,1830.45,SI,Físico
+LM-P00386,LM000386,Digital Modelo 0386,Infantil,Marca K,487.4,638.75,SI,Físico
+LM-P00387,LM000387,Digital Modelo 0387,Juegos,Marca B,734.68,1194.0,SI,Físico
+LM-P00388,LM000388,Juegos Modelo 0388,Infantil,Marca E,1812.78,2597.44,SI,Físico
+LM-P00389,LM000389,Digital Modelo 0389,Ficción,Marca J,1700.54,2659.01,SI,Físico
+LM-P00390,LM000390,Ficción Modelo 0390,Infantil,Marca K,1512.12,2330.08,SI,Físico
+LM-P00391,LM000391,Papelería Modelo 0391,Juegos,Marca E,1894.49,2590.19,NO,Físico
+LM-P00392,LM000392,No ficción Modelo 0392,Papelería,Marca N,993.91,1729.54,SI,Físico
+LM-P00393,LM000393,Académico Modelo 0393,Académico,Marca B,2026.16,2688.21,SI,Físico
+LM-P00394,LM000394,Académico Modelo 0394,Académico,Marca C,223.87,271.35,SI,Físico
+LM-P00395,LM000395,Ficción Modelo 0395,Ficción,Marca I,2066.38,3218.1,SI,Físico
+LM-P00396,LM000396,Digital Modelo 0396,Papelería,Marca L,38.36,57.95,SI,Físico
+LM-P00397,LM000397,Papelería Modelo 0397,Ficción,Marca F,1999.63,2490.6,SI,Físico
+LM-P00398,LM000398,Papelería Modelo 0398,Papelería,Marca M,1620.26,2751.52,SI,Físico
+LM-P00399,LM000399,Ficción Modelo 0399,Papelería,Marca H,964.81,1367.14,SI,Físico
+LM-P00400,LM000400,No ficción Modelo 0400,Infantil,Marca B,1205.19,1600.53,SI,Físico
+LM-P00401,LM000401,Académico Modelo 0401,No ficción,Marca D,1713.93,2451.93,SI,Físico
+LM-P00402,LM000402,Ficción Modelo 0402,Académico,Marca I,190.09,262.25,SI,Físico
+LM-P00403,LM000403,No ficción Modelo 0403,Papelería,Marca I,149.68,202.57,SI,Físico
+LM-P00404,LM000404,Papelería Modelo 0404,No ficción,Marca F,184.75,275.23,SI,Físico
+LM-P00405,LM000405,Papelería Modelo 0405,Juegos,Marca H,388.07,530.21,SI,Audiolibro
+LM-P00406,LM000406,Papelería Modelo 0406,Digital,Marca E,1056.96,1619.14,SI,Físico
+LM-P00407,LM000407,Infantil Modelo 0407,Ficción,Marca E,2202.15,3659.25,SI,Físico
+LM-P00408,LM000408,Ficción Modelo 0408,Académico,Marca K,2427.57,3310.82,SI,Físico
+LM-P00409,LM000409,Digital Modelo 0409,Juegos,Marca C,1608.98,2434.37,SI,Físico
+LM-P00410,LM000410,Infantil Modelo 0410,Digital,Marca C,1540.15,2207.49,SI,Físico
+LM-P00411,LM000411,Digital Modelo 0411,No ficción,Marca F,202.11,295.24,SI,Físico
+LM-P00412,LM000412,Ficción Modelo 0412,Ficción,Marca G,1315.4,2275.74,SI,Físico
+LM-P00413,LM000413,No ficción Modelo 0413,Infantil,Marca C,950.65,1207.1,SI,Físico
+LM-P00414,LM000414,Juegos Modelo 0414,No ficción,Marca N,602.0,809.42,SI,Físico
+LM-P00415,LM000415,Ficción Modelo 0415,Digital,Marca M,337.23,407.29,SI,Digital
+LM-P00416,LM000416,Infantil Modelo 0416,Académico,Marca K,669.75,825.34,SI,Audiolibro
+LM-P00417,LM000417,Digital Modelo 0417,Digital,Marca J,174.89,295.01,SI,Físico
+LM-P00418,LM000418,No ficción Modelo 0418,Infantil,Marca N,760.15,1023.48,SI,Digital
+LM-P00419,LM000419,Académico Modelo 0419,Papelería,Marca H,1994.8,2582.1,SI,Físico
+LM-P00420,LM000420,Papelería Modelo 0420,Infantil,Marca G,1737.79,2089.93,SI,Físico
+LM-P00421,LM000421,Académico Modelo 0421,Juegos,Marca G,1316.07,2127.05,SI,Físico
+LM-P00422,LM000422,Papelería Modelo 0422,Digital,Marca J,1155.65,1910.4,SI,Físico
+LM-P00423,LM000423,Académico Modelo 0423,Digital,Marca M,470.22,724.88,SI,Físico
+LM-P00424,LM000424,Juegos Modelo 0424,Ficción,Marca J,1548.59,2648.16,SI,Digital
+LM-P00425,LM000425,Infantil Modelo 0425,Papelería,Marca C,728.97,1172.9,SI,Físico
+LM-P00426,LM000426,Juegos Modelo 0426,Académico,Marca D,463.06,596.95,SI,Físico
+LM-P00427,LM000427,Papelería Modelo 0427,Infantil,Marca M,1898.9,2543.89,SI,Físico
+LM-P00428,LM000428,Académico Modelo 0428,No ficción,Marca C,1468.62,2076.98,SI,Digital
+LM-P00429,LM000429,Académico Modelo 0429,Papelería,Marca A,632.53,1014.98,SI,Digital
+LM-P00430,LM000430,Papelería Modelo 0430,No ficción,Marca H,855.21,1321.6,SI,Físico
+LM-P00431,LM000431,Digital Modelo 0431,Juegos,Marca E,2463.59,2956.42,SI,Físico
+LM-P00432,LM000432,Ficción Modelo 0432,Ficción,Marca D,85.29,110.66,SI,Físico
+LM-P00433,LM000433,Digital Modelo 0433,Digital,Marca C,2457.86,3480.67,SI,Físico
+LM-P00434,LM000434,Juegos Modelo 0434,Papelería,Marca C,1787.49,2646.03,SI,Físico
+LM-P00435,LM000435,Ficción Modelo 0435,Académico,Marca G,1143.1,1985.96,SI,Físico
+LM-P00436,LM000436,Digital Modelo 0436,Digital,Marca G,1626.06,2382.7,SI,Físico
+LM-P00437,LM000437,Infantil Modelo 0437,Digital,Marca E,2469.23,3294.38,SI,Físico
+LM-P00438,LM000438,Digital Modelo 0438,Infantil,Marca D,341.8,422.0,NO,Físico
+LM-P00439,LM000439,Juegos Modelo 0439,Ficción,Marca F,1851.84,2571.74,SI,Físico
+LM-P00440,LM000440,Juegos Modelo 0440,Juegos,Marca E,1077.73,1448.68,SI,Físico
+LM-P00441,LM000441,Digital Modelo 0441,Académico,Marca A,1727.44,2259.14,SI,Físico
+LM-P00442,LM000442,Académico Modelo 0442,Digital,Marca D,661.53,809.75,SI,Físico
+LM-P00443,LM000443,Ficción Modelo 0443,Digital,Marca J,2273.12,3331.6,SI,Físico
+LM-P00444,LM000444,Infantil Modelo 0444,Ficción,Marca F,1751.13,2455.67,SI,Físico
+LM-P00445,LM000445,Papelería Modelo 0445,Académico,Marca M,424.5,586.42,SI,Digital
+LM-P00446,LM000446,Papelería Modelo 0446,Ficción,Marca D,1678.51,2653.49,SI,Físico
+LM-P00447,LM000447,Papelería Modelo 0447,Ficción,Marca B,1543.83,2656.75,SI,Físico
+LM-P00448,LM000448,Infantil Modelo 0448,Juegos,Marca I,945.27,1284.93,SI,Físico
+LM-P00449,LM000449,Juegos Modelo 0449,Digital,Marca K,241.51,341.61,SI,Físico
+LM-P00450,LM000450,Ficción Modelo 0450,Papelería,Marca K,1631.48,2819.35,SI,Físico
+LM-P00451,LM000451,Infantil Modelo 0451,Papelería,Marca K,444.48,575.88,SI,Físico
+LM-P00452,LM000452,Ficción Modelo 0452,Juegos,Marca I,1563.27,2362.92,SI,Digital
+LM-P00453,LM000453,Académico Modelo 0453,Académico,Marca D,1885.32,3252.67,SI,Físico
+LM-P00454,LM000454,No ficción Modelo 0454,Ficción,Marca A,1232.94,1893.44,SI,Físico
+LM-P00455,LM000455,Digital Modelo 0455,Infantil,Marca J,746.33,1194.68,NO,Físico
+LM-P00456,LM000456,Ficción Modelo 0456,Infantil,Marca J,1949.39,2534.85,SI,Físico
+LM-P00457,LM000457,No ficción Modelo 0457,Papelería,Marca C,1940.75,2339.44,SI,Audiolibro
+LM-P00458,LM000458,Juegos Modelo 0458,Infantil,Marca D,1156.13,1948.29,SI,Audiolibro
+LM-P00459,LM000459,Juegos Modelo 0459,Digital,Marca B,1552.71,2043.9,SI,Digital
+LM-P00460,LM000460,Digital Modelo 0460,No ficción,Marca E,1085.94,1857.74,SI,Físico
+LM-P00461,LM000461,Juegos Modelo 0461,Infantil,Marca F,296.19,499.51,SI,Audiolibro
+LM-P00462,LM000462,Académico Modelo 0462,Juegos,Marca E,1653.49,2614.77,SI,Físico
+LM-P00463,LM000463,Académico Modelo 0463,No ficción,Marca D,2164.64,3193.14,SI,Digital
+LM-P00464,LM000464,Ficción Modelo 0464,No ficción,Marca J,1847.99,2791.98,SI,Físico
+LM-P00465,LM000465,Ficción Modelo 0465,Juegos,Marca J,2084.45,2738.77,SI,Audiolibro
+LM-P00466,LM000466,Ficción Modelo 0466,Juegos,Marca A,185.94,266.81,SI,Digital
+LM-P00467,LM000467,Académico Modelo 0467,Juegos,Marca F,1748.21,2843.22,SI,Físico
+LM-P00468,LM000468,Ficción Modelo 0468,Papelería,Marca K,1225.94,1953.75,SI,Físico
+LM-P00469,LM000469,Académico Modelo 0469,No ficción,Marca N,76.41,116.78,SI,Físico
+LM-P00470,LM000470,Ficción Modelo 0470,Ficción,Marca H,1863.59,2924.22,SI,Digital
+LM-P00471,LM000471,Papelería Modelo 0471,Papelería,Marca E,580.07,717.21,SI,Digital
+LM-P00472,LM000472,Ficción Modelo 0472,Papelería,Marca B,681.53,1177.95,SI,Físico
+LM-P00473,LM000473,No ficción Modelo 0473,Infantil,Marca I,2335.44,3034.97,SI,Físico
+LM-P00474,LM000474,Infantil Modelo 0474,Papelería,Marca H,2391.75,2967.7,SI,Físico
+LM-P00475,LM000475,Papelería Modelo 0475,Académico,Marca E,989.87,1358.79,SI,Audiolibro
+LM-P00476,LM000476,No ficción Modelo 0476,Ficción,Marca K,2499.24,3859.8,SI,Físico
+LM-P00477,LM000477,Digital Modelo 0477,No ficción,Marca G,1718.45,2167.82,SI,Digital
+LM-P00478,LM000478,Papelería Modelo 0478,Digital,Marca D,1646.76,2005.18,SI,Físico
+LM-P00479,LM000479,No ficción Modelo 0479,Académico,Marca J,709.59,866.59,SI,Físico
+LM-P00480,LM000480,Infantil Modelo 0480,Ficción,Marca N,188.19,288.63,SI,Físico
+LM-P00481,LM000481,Ficción Modelo 0481,Académico,Marca N,2037.19,3475.17,SI,Físico
+LM-P00482,LM000482,Ficción Modelo 0482,Juegos,Marca J,485.99,730.86,NO,Físico
+LM-P00483,LM000483,Académico Modelo 0483,Digital,Marca B,2277.52,3303.12,SI,Físico
+LM-P00484,LM000484,Juegos Modelo 0484,Ficción,Marca N,245.77,391.86,SI,Físico
+LM-P00485,LM000485,Digital Modelo 0485,No ficción,Marca J,965.5,1397.41,SI,Físico
+LM-P00486,LM000486,No ficción Modelo 0486,Papelería,Marca K,577.22,776.62,SI,Físico
+LM-P00487,LM000487,Papelería Modelo 0487,Digital,Marca C,2147.09,2704.14,SI,Digital
+LM-P00488,LM000488,No ficción Modelo 0488,Juegos,Marca H,2420.06,3852.25,SI,Digital
+LM-P00489,LM000489,Académico Modelo 0489,Juegos,Marca K,487.45,781.45,SI,Digital
+LM-P00490,LM000490,Ficción Modelo 0490,Académico,Marca A,2030.23,2621.26,SI,Físico
+LM-P00491,LM000491,Académico Modelo 0491,Académico,Marca H,853.31,1412.38,SI,Físico
+LM-P00492,LM000492,Juegos Modelo 0492,Ficción,Marca A,1947.93,2797.4,SI,Físico
+LM-P00493,LM000493,Académico Modelo 0493,No ficción,Marca I,1455.65,2141.7,SI,Audiolibro
+LM-P00494,LM000494,Digital Modelo 0494,Ficción,Marca L,2141.82,3227.15,SI,Físico
+LM-P00495,LM000495,Papelería Modelo 0495,Digital,Marca N,1992.1,2909.89,SI,Físico
+LM-P00496,LM000496,Digital Modelo 0496,No ficción,Marca C,897.47,1394.06,SI,Digital
+LM-P00497,LM000497,Infantil Modelo 0497,Digital,Marca N,588.04,972.33,SI,Físico
+LM-P00498,LM000498,Papelería Modelo 0498,Juegos,Marca N,1292.78,1822.81,SI,Físico
+LM-P00499,LM000499,Infantil Modelo 0499,Digital,Marca C,441.65,606.78,SI,Audiolibro
+LM-P00500,LM000500,Juegos Modelo 0500,Digital,Marca L,322.09,474.52,SI,Físico
+LM-P00501,LM000501,Digital Modelo 0501,Infantil,Marca D,2211.61,3087.26,SI,Digital
+LM-P00502,LM000502,Ficción Modelo 0502,Papelería,Marca E,1990.21,2505.86,SI,Físico
+LM-P00503,LM000503,Papelería Modelo 0503,Ficción,Marca N,1647.44,2358.28,SI,Físico
+LM-P00504,LM000504,No ficción Modelo 0504,Académico,Marca G,724.22,1250.49,SI,Físico
+LM-P00505,LM000505,Papelería Modelo 0505,Juegos,Marca K,2050.89,2943.3,SI,Físico
+LM-P00506,LM000506,Digital Modelo 0506,Digital,Marca A,766.52,1006.38,SI,Digital
+LM-P00507,LM000507,No ficción Modelo 0507,Papelería,Marca A,53.82,72.92,SI,Físico
+LM-P00508,LM000508,Juegos Modelo 0508,Infantil,Marca C,346.9,520.31,SI,Físico
+LM-P00509,LM000509,Infantil Modelo 0509,Papelería,Marca H,590.81,715.28,SI,Físico
+LM-P00510,LM000510,Ficción Modelo 0510,Académico,Marca A,1867.44,2609.77,SI,Físico
+LM-P00511,LM000511,Infantil Modelo 0511,Infantil,Marca N,1119.25,1400.58,SI,Físico
+LM-P00512,LM000512,Papelería Modelo 0512,No ficción,Marca A,1277.81,2136.74,SI,Físico
+LM-P00513,LM000513,Ficción Modelo 0513,Infantil,Marca I,1892.6,2935.89,SI,Físico
+LM-P00514,LM000514,Académico Modelo 0514,Papelería,Marca K,258.25,423.86,SI,Físico
+LM-P00515,LM000515,Infantil Modelo 0515,Papelería,Marca A,1999.61,2750.28,SI,Físico
+LM-P00516,LM000516,Académico Modelo 0516,Académico,Marca B,873.42,1351.23,SI,Físico
+LM-P00517,LM000517,Ficción Modelo 0517,No ficción,Marca D,922.66,1239.87,NO,Físico
+LM-P00518,LM000518,No ficción Modelo 0518,Papelería,Marca F,170.3,291.78,SI,Físico
+LM-P00519,LM000519,Juegos Modelo 0519,Infantil,Marca N,1812.12,2428.16,SI,Físico
+LM-P00520,LM000520,Infantil Modelo 0520,Ficción,Marca H,140.55,222.02,SI,Físico
+LM-P00521,LM000521,Académico Modelo 0521,Juegos,Marca L,276.18,410.75,SI,Audiolibro
+LM-P00522,LM000522,Juegos Modelo 0522,No ficción,Marca I,400.0,633.96,SI,Físico
+LM-P00523,LM000523,Digital Modelo 0523,Infantil,Marca B,2447.88,4080.06,SI,Físico
+LM-P00524,LM000524,Infantil Modelo 0524,Papelería,Marca G,712.62,1129.75,NO,Físico
+LM-P00525,LM000525,Papelería Modelo 0525,Papelería,Marca E,57.81,86.49,SI,Audiolibro
+LM-P00526,LM000526,Digital Modelo 0526,Ficción,Marca A,486.32,788.96,SI,Físico
+LM-P00527,LM000527,No ficción Modelo 0527,Digital,Marca B,1644.27,2755.83,SI,Digital
+LM-P00528,LM000528,Digital Modelo 0528,Ficción,Marca D,2354.86,3239.88,SI,Digital
+LM-P00529,LM000529,No ficción Modelo 0529,Académico,Marca N,1555.83,1956.88,SI,Digital
+LM-P00530,LM000530,Académico Modelo 0530,No ficción,Marca H,1091.06,1889.62,SI,Físico
+LM-P00531,LM000531,Académico Modelo 0531,Digital,Marca L,2438.42,3155.2,SI,Físico
+LM-P00532,LM000532,Ficción Modelo 0532,No ficción,Marca I,214.61,354.39,SI,Físico
+LM-P00533,LM000533,Ficción Modelo 0533,Papelería,Marca J,1001.26,1194.57,SI,Digital
+LM-P00534,LM000534,Académico Modelo 0534,Digital,Marca D,1015.59,1202.97,SI,Digital
+LM-P00535,LM000535,Académico Modelo 0535,Papelería,Marca M,708.69,992.41,SI,Digital
+LM-P00536,LM000536,Infantil Modelo 0536,No ficción,Marca K,2405.37,3469.55,SI,Digital
+LM-P00537,LM000537,No ficción Modelo 0537,Académico,Marca N,1167.81,1971.09,SI,Físico
+LM-P00538,LM000538,Digital Modelo 0538,Académico,Marca G,2112.77,3633.97,SI,Físico
+LM-P00539,LM000539,Académico Modelo 0539,No ficción,Marca I,2170.03,2630.66,SI,Físico
+LM-P00540,LM000540,Ficción Modelo 0540,No ficción,Marca L,1105.01,1448.41,SI,Físico
+LM-P00541,LM000541,Infantil Modelo 0541,Infantil,Marca N,1953.75,3250.99,SI,Físico
+LM-P00542,LM000542,Digital Modelo 0542,Académico,Marca I,520.5,685.13,SI,Físico
+LM-P00543,LM000543,Infantil Modelo 0543,Infantil,Marca K,1983.3,3057.48,SI,Digital
+LM-P00544,LM000544,Digital Modelo 0544,Ficción,Marca D,2422.06,3690.63,SI,Audiolibro
+LM-P00545,LM000545,Infantil Modelo 0545,Infantil,Marca L,176.48,231.43,SI,Físico
+LM-P00546,LM000546,Digital Modelo 0546,Digital,Marca K,2073.66,2877.85,NO,Físico
+LM-P00547,LM000547,Académico Modelo 0547,Juegos,Marca C,1645.82,2146.69,SI,Digital
+LM-P00548,LM000548,Infantil Modelo 0548,Infantil,Marca C,741.5,1180.18,SI,Digital
+LM-P00549,LM000549,Ficción Modelo 0549,Infantil,Marca D,224.58,383.17,SI,Físico
+LM-P00550,LM000550,Infantil Modelo 0550,Juegos,Marca M,219.82,305.08,NO,Digital
+LM-P00551,LM000551,Juegos Modelo 0551,Ficción,Marca G,1475.17,1743.98,SI,Físico
+LM-P00552,LM000552,No ficción Modelo 0552,Ficción,Marca H,178.34,235.4,SI,Físico
+LM-P00553,LM000553,Papelería Modelo 0553,Académico,Marca E,83.82,130.25,SI,Físico
+LM-P00554,LM000554,Infantil Modelo 0554,Digital,Marca I,2177.26,3258.28,SI,Físico
+LM-P00555,LM000555,Infantil Modelo 0555,Académico,Marca H,547.81,797.98,SI,Físico
+LM-P00556,LM000556,Juegos Modelo 0556,Académico,Marca M,937.44,1539.07,SI,Físico
+LM-P00557,LM000557,Académico Modelo 0557,Juegos,Marca N,274.38,425.74,SI,Físico
+LM-P00558,LM000558,Papelería Modelo 0558,Infantil,Marca F,931.25,1278.97,SI,Físico
+LM-P00559,LM000559,Infantil Modelo 0559,Juegos,Marca L,2061.06,2796.7,SI,Físico
+LM-P00560,LM000560,Infantil Modelo 0560,Juegos,Marca B,1615.56,2639.36,SI,Audiolibro
+LM-P00561,LM000561,Papelería Modelo 0561,No ficción,Marca F,2355.63,3847.13,SI,Físico
+LM-P00562,LM000562,Papelería Modelo 0562,Digital,Marca D,1196.03,1437.63,SI,Físico
+LM-P00563,LM000563,Digital Modelo 0563,Juegos,Marca D,1367.73,1988.27,SI,Digital
+LM-P00564,LM000564,Papelería Modelo 0564,Digital,Marca D,263.24,376.04,SI,Digital
+LM-P00565,LM000565,Digital Modelo 0565,Digital,Marca C,653.73,898.5,SI,Digital
+LM-P00566,LM000566,Papelería Modelo 0566,Infantil,Marca H,2185.3,2606.49,SI,Físico
+LM-P00567,LM000567,Académico Modelo 0567,No ficción,Marca L,640.64,783.76,SI,Físico
+LM-P00568,LM000568,Papelería Modelo 0568,Ficción,Marca E,801.12,1052.02,SI,Digital
+LM-P00569,LM000569,No ficción Modelo 0569,Infantil,Marca K,1137.38,1388.98,SI,Físico
+LM-P00570,LM000570,Digital Modelo 0570,Papelería,Marca N,605.38,1001.51,SI,Físico
+LM-P00571,LM000571,Infantil Modelo 0571,Digital,Marca L,270.61,364.06,SI,Físico
+LM-P00572,LM000572,Infantil Modelo 0572,Infantil,Marca A,2181.55,3236.39,SI,Físico
+LM-P00573,LM000573,Ficción Modelo 0573,Infantil,Marca D,2365.66,2987.9,NO,Físico
+LM-P00574,LM000574,Digital Modelo 0574,Juegos,Marca G,2194.53,3211.01,SI,Físico
+LM-P00575,LM000575,Ficción Modelo 0575,Papelería,Marca B,2338.64,3617.32,SI,Físico
+LM-P00576,LM000576,Digital Modelo 0576,Papelería,Marca I,1344.02,1598.25,NO,Físico
+LM-P00577,LM000577,Papelería Modelo 0577,Académico,Marca I,1230.94,1999.57,SI,Digital
+LM-P00578,LM000578,Académico Modelo 0578,Digital,Marca B,575.26,899.92,SI,Físico
+LM-P00579,LM000579,Juegos Modelo 0579,Juegos,Marca A,1772.09,2116.83,SI,Físico
+LM-P00580,LM000580,Digital Modelo 0580,Juegos,Marca A,350.73,547.73,SI,Audiolibro
+LM-P00581,LM000581,Digital Modelo 0581,Académico,Marca K,955.6,1667.44,SI,Físico
+LM-P00582,LM000582,Académico Modelo 0582,Académico,Marca D,1956.11,2464.26,SI,Físico
+LM-P00583,LM000583,Académico Modelo 0583,Papelería,Marca N,741.55,1169.66,SI,Físico
+LM-P00584,LM000584,Infantil Modelo 0584,Juegos,Marca B,1599.43,2783.93,SI,Físico
+LM-P00585,LM000585,Ficción Modelo 0585,Infantil,Marca M,1259.7,1786.64,SI,Físico
+LM-P00586,LM000586,Académico Modelo 0586,Papelería,Marca H,1315.53,2290.94,NO,Físico
+LM-P00587,LM000587,Digital Modelo 0587,Juegos,Marca M,46.44,55.29,SI,Digital
+LM-P00588,LM000588,Ficción Modelo 0588,Ficción,Marca K,486.2,671.51,SI,Físico
+LM-P00589,LM000589,Digital Modelo 0589,Juegos,Marca E,2040.38,2855.47,SI,Físico
+LM-P00590,LM000590,Ficción Modelo 0590,Infantil,Marca E,1164.25,1461.16,SI,Digital
+LM-P00591,LM000591,Digital Modelo 0591,Papelería,Marca E,2284.45,3293.55,SI,Digital
+LM-P00592,LM000592,Papelería Modelo 0592,No ficción,Marca L,2123.6,2704.68,SI,Físico
+LM-P00593,LM000593,Infantil Modelo 0593,Juegos,Marca C,689.24,843.67,SI,Digital
+LM-P00594,LM000594,Papelería Modelo 0594,Académico,Marca H,490.66,827.19,SI,Físico
+LM-P00595,LM000595,Papelería Modelo 0595,Juegos,Marca K,2080.98,2787.14,SI,Digital
+LM-P00596,LM000596,Académico Modelo 0596,Papelería,Marca M,320.92,468.11,SI,Físico
+LM-P00597,LM000597,Papelería Modelo 0597,Infantil,Marca M,1907.04,3229.34,SI,Físico
+LM-P00598,LM000598,Digital Modelo 0598,No ficción,Marca F,1327.44,1867.43,SI,Físico
+LM-P00599,LM000599,Ficción Modelo 0599,Ficción,Marca N,1156.19,1572.53,SI,Físico
+LM-P00600,LM000600,No ficción Modelo 0600,Académico,Marca B,2403.51,3862.87,SI,Físico
+LM-P00601,LM000601,Académico Modelo 0601,Digital,Marca K,1607.04,1900.47,SI,Físico
+LM-P00602,LM000602,No ficción Modelo 0602,Papelería,Marca E,1161.01,1469.27,SI,Físico
+LM-P00603,LM000603,Académico Modelo 0603,Infantil,Marca F,281.71,431.55,SI,Físico
+LM-P00604,LM000604,Juegos Modelo 0604,No ficción,Marca A,792.55,1058.32,NO,Físico
+LM-P00605,LM000605,Juegos Modelo 0605,Digital,Marca C,1487.58,2587.88,SI,Digital
+LM-P00606,LM000606,Infantil Modelo 0606,Infantil,Marca I,1836.89,2408.01,SI,Físico
+LM-P00607,LM000607,No ficción Modelo 0607,Ficción,Marca H,476.05,773.0,SI,Físico
+LM-P00608,LM000608,Digital Modelo 0608,Juegos,Marca B,416.31,504.74,SI,Físico
+LM-P00609,LM000609,Papelería Modelo 0609,Ficción,Marca C,1669.83,2085.39,SI,Físico
+LM-P00610,LM000610,Ficción Modelo 0610,Digital,Marca M,1850.86,2766.45,SI,Físico
+LM-P00611,LM000611,Juegos Modelo 0611,Ficción,Marca F,1250.56,1754.77,NO,Físico
+LM-P00612,LM000612,No ficción Modelo 0612,Ficción,Marca E,844.46,1295.84,SI,Digital
+LM-P00613,LM000613,Académico Modelo 0613,Juegos,Marca I,2170.17,3273.53,SI,Audiolibro
+LM-P00614,LM000614,Papelería Modelo 0614,Ficción,Marca I,332.41,523.28,SI,Físico
+LM-P00615,LM000615,Juegos Modelo 0615,Ficción,Marca I,579.05,683.97,SI,Físico
+LM-P00616,LM000616,Papelería Modelo 0616,Papelería,Marca F,805.68,1389.16,SI,Audiolibro
+LM-P00617,LM000617,No ficción Modelo 0617,Papelería,Marca M,1473.95,2033.88,SI,Físico
+LM-P00618,LM000618,Digital Modelo 0618,Digital,Marca N,758.93,1327.58,SI,Audiolibro
+LM-P00619,LM000619,Académico Modelo 0619,Académico,Marca J,172.95,217.6,SI,Físico
+LM-P00620,LM000620,Juegos Modelo 0620,Digital,Marca L,1081.94,1721.37,SI,Físico
+LM-P00621,LM000621,Papelería Modelo 0621,Papelería,Marca C,343.61,466.44,SI,Físico
+LM-P00622,LM000622,Papelería Modelo 0622,Infantil,Marca A,1631.79,2385.66,SI,Digital
+LM-P00623,LM000623,No ficción Modelo 0623,Digital,Marca D,690.79,915.78,SI,Físico
+LM-P00624,LM000624,Juegos Modelo 0624,Digital,Marca M,159.06,248.42,SI,Físico
+LM-P00625,LM000625,Papelería Modelo 0625,Papelería,Marca J,1941.54,2919.39,SI,Físico
+LM-P00626,LM000626,Infantil Modelo 0626,Juegos,Marca K,1298.46,2208.79,SI,Físico
+LM-P00627,LM000627,Ficción Modelo 0627,Digital,Marca G,805.49,1124.17,SI,Físico
+LM-P00628,LM000628,Ficción Modelo 0628,No ficción,Marca J,1976.11,2522.59,SI,Digital
+LM-P00629,LM000629,Infantil Modelo 0629,No ficción,Marca L,946.0,1160.35,SI,Físico
+LM-P00630,LM000630,Juegos Modelo 0630,Papelería,Marca J,1580.91,1957.82,SI,Digital
+LM-P00631,LM000631,Papelería Modelo 0631,Infantil,Marca I,2259.85,2902.94,SI,Físico
+LM-P00632,LM000632,Infantil Modelo 0632,No ficción,Marca E,1146.13,1529.66,SI,Digital
+LM-P00633,LM000633,Ficción Modelo 0633,Académico,Marca L,1035.17,1746.72,SI,Audiolibro
+LM-P00634,LM000634,Juegos Modelo 0634,Académico,Marca B,2174.12,3528.32,SI,Físico
+LM-P00635,LM000635,Papelería Modelo 0635,No ficción,Marca D,1419.71,2002.75,SI,Físico
+LM-P00636,LM000636,Digital Modelo 0636,Juegos,Marca J,101.2,129.78,SI,Físico
+LM-P00637,LM000637,Digital Modelo 0637,Juegos,Marca D,1796.83,2715.68,SI,Físico
+LM-P00638,LM000638,Papelería Modelo 0638,Papelería,Marca F,2404.12,2910.71,SI,Digital
+LM-P00639,LM000639,Papelería Modelo 0639,Ficción,Marca L,801.89,1353.66,SI,Físico
+LM-P00640,LM000640,Juegos Modelo 0640,Papelería,Marca C,472.04,563.61,NO,Audiolibro
+LM-P00641,LM000641,Papelería Modelo 0641,Papelería,Marca A,2471.93,3607.03,SI,Físico
+LM-P00642,LM000642,No ficción Modelo 0642,Digital,Marca J,357.04,443.3,SI,Físico
+LM-P00643,LM000643,Académico Modelo 0643,No ficción,Marca G,1080.36,1653.9,SI,Audiolibro
+LM-P00644,LM000644,Académico Modelo 0644,No ficción,Marca G,1435.5,1900.76,SI,Digital
+LM-P00645,LM000645,Juegos Modelo 0645,Digital,Marca G,1618.4,2736.09,SI,Digital
+LM-P00646,LM000646,Ficción Modelo 0646,Digital,Marca E,127.65,159.96,SI,Físico
+LM-P00647,LM000647,No ficción Modelo 0647,Juegos,Marca K,1747.54,2813.47,SI,Físico
+LM-P00648,LM000648,Digital Modelo 0648,Académico,Marca G,484.1,793.53,SI,Digital
+LM-P00649,LM000649,Juegos Modelo 0649,Papelería,Marca K,1898.78,2907.78,SI,Físico
+LM-P00650,LM000650,Juegos Modelo 0650,Papelería,Marca A,291.1,509.31,SI,Físico
+LM-P00651,LM000651,No ficción Modelo 0651,Académico,Marca C,1838.7,2312.04,SI,Digital
+LM-P00652,LM000652,Papelería Modelo 0652,Infantil,Marca E,1360.7,2168.42,SI,Físico
+LM-P00653,LM000653,Ficción Modelo 0653,Juegos,Marca D,390.49,674.51,SI,Físico
+LM-P00654,LM000654,Infantil Modelo 0654,Ficción,Marca M,16.16,19.16,SI,Audiolibro
+LM-P00655,LM000655,Ficción Modelo 0655,Ficción,Marca H,2486.19,4030.29,SI,Físico
+LM-P00656,LM000656,No ficción Modelo 0656,No ficción,Marca I,785.84,1364.07,SI,Audiolibro
+LM-P00657,LM000657,Digital Modelo 0657,Papelería,Marca C,1197.23,1734.28,SI,Físico
+LM-P00658,LM000658,Académico Modelo 0658,Ficción,Marca M,968.47,1219.08,SI,Físico
+LM-P00659,LM000659,Digital Modelo 0659,Ficción,Marca L,168.24,224.12,SI,Físico
+LM-P00660,LM000660,Ficción Modelo 0660,Infantil,Marca K,318.91,541.71,SI,Físico
+LM-P00661,LM000661,Juegos Modelo 0661,Digital,Marca D,1555.85,2387.9,SI,Físico
+LM-P00662,LM000662,No ficción Modelo 0662,Papelería,Marca M,1796.71,2549.0,SI,Físico
+LM-P00663,LM000663,Académico Modelo 0663,Digital,Marca F,2338.89,3895.28,SI,Físico
+LM-P00664,LM000664,Académico Modelo 0664,Papelería,Marca A,903.21,1193.4,SI,Físico
+LM-P00665,LM000665,Juegos Modelo 0665,No ficción,Marca M,2221.64,2877.53,SI,Físico
+LM-P00666,LM000666,No ficción Modelo 0666,Infantil,Marca I,708.97,1205.61,SI,Físico
+LM-P00667,LM000667,Ficción Modelo 0667,Papelería,Marca J,492.01,699.76,SI,Físico
+LM-P00668,LM000668,Infantil Modelo 0668,Juegos,Marca K,372.38,452.24,SI,Físico
+LM-P00669,LM000669,Papelería Modelo 0669,Infantil,Marca D,367.99,442.58,SI,Digital
+LM-P00670,LM000670,Infantil Modelo 0670,No ficción,Marca K,1676.68,2738.3,SI,Físico
+LM-P00671,LM000671,Juegos Modelo 0671,Juegos,Marca L,1810.64,2663.88,SI,Físico
+LM-P00672,LM000672,Infantil Modelo 0672,Digital,Marca A,238.02,404.1,SI,Físico
+LM-P00673,LM000673,Juegos Modelo 0673,Digital,Marca G,2198.74,3293.6,SI,Físico
+LM-P00674,LM000674,Digital Modelo 0674,Papelería,Marca F,718.13,1056.66,SI,Físico
+LM-P00675,LM000675,Juegos Modelo 0675,Ficción,Marca B,713.0,899.93,SI,Físico
+LM-P00676,LM000676,Digital Modelo 0676,No ficción,Marca F,428.53,634.8,SI,Físico
+LM-P00677,LM000677,Ficción Modelo 0677,Infantil,Marca M,186.14,291.49,SI,Digital
+LM-P00678,LM000678,Digital Modelo 0678,Papelería,Marca D,720.13,1112.15,SI,Físico
+LM-P00679,LM000679,Académico Modelo 0679,No ficción,Marca J,649.82,801.03,SI,Audiolibro
+LM-P00680,LM000680,Infantil Modelo 0680,Infantil,Marca A,990.35,1470.98,SI,Físico
+LM-P00681,LM000681,Papelería Modelo 0681,Ficción,Marca N,592.96,889.57,SI,Audiolibro
+LM-P00682,LM000682,Ficción Modelo 0682,Digital,Marca F,87.26,138.79,SI,Físico
+LM-P00683,LM000683,Digital Modelo 0683,Ficción,Marca C,1927.61,3051.52,SI,Físico
+LM-P00684,LM000684,Ficción Modelo 0684,Juegos,Marca D,138.48,191.01,SI,Digital
+LM-P00685,LM000685,No ficción Modelo 0685,No ficción,Marca K,187.15,307.2,SI,Físico
+LM-P00686,LM000686,Ficción Modelo 0686,Académico,Marca F,2041.56,2475.7,SI,Físico
+LM-P00687,LM000687,No ficción Modelo 0687,Infantil,Marca N,1784.96,3084.71,SI,Físico
+LM-P00688,LM000688,No ficción Modelo 0688,Juegos,Marca F,753.98,1217.77,SI,Físico
+LM-P00689,LM000689,Infantil Modelo 0689,Papelería,Marca M,144.38,235.36,SI,Digital
+LM-P00690,LM000690,Ficción Modelo 0690,No ficción,Marca D,2114.93,3437.73,SI,Físico
+LM-P00691,LM000691,Académico Modelo 0691,Ficción,Marca M,941.53,1160.58,NO,Físico
+LM-P00692,LM000692,Infantil Modelo 0692,Digital,Marca B,614.87,771.39,SI,Físico
+LM-P00693,LM000693,Digital Modelo 0693,Académico,Marca B,1118.76,1954.71,SI,Físico
+LM-P00694,LM000694,Papelería Modelo 0694,Ficción,Marca A,404.71,670.53,SI,Audiolibro
+LM-P00695,LM000695,Papelería Modelo 0695,No ficción,Marca J,197.63,249.95,SI,Físico
+LM-P00696,LM000696,No ficción Modelo 0696,Infantil,Marca G,1484.6,2566.99,SI,Físico
+LM-P00697,LM000697,Digital Modelo 0697,No ficción,Marca J,677.24,1036.99,SI,Digital
+LM-P00698,LM000698,No ficción Modelo 0698,Digital,Marca F,819.91,1167.87,SI,Físico
+LM-P00699,LM000699,Juegos Modelo 0699,Ficción,Marca A,1173.29,1643.34,NO,Físico
+LM-P00700,LM000700,No ficción Modelo 0700,No ficción,Marca C,134.18,180.1,SI,Físico
+LM-P00701,LM000701,Digital Modelo 0701,No ficción,Marca M,1813.86,2197.84,SI,Físico
+LM-P00702,LM000702,Académico Modelo 0702,No ficción,Marca C,896.36,1454.28,SI,Físico
+LM-P00703,LM000703,Digital Modelo 0703,Digital,Marca J,1155.67,1993.72,SI,Físico
+LM-P00704,LM000704,Académico Modelo 0704,Juegos,Marca D,1046.61,1626.79,SI,Digital
+LM-P00705,LM000705,Papelería Modelo 0705,Académico,Marca K,890.17,1294.7,SI,Físico
+LM-P00706,LM000706,Juegos Modelo 0706,Ficción,Marca C,1904.43,2491.97,SI,Digital
+LM-P00707,LM000707,Ficción Modelo 0707,No ficción,Marca J,2270.15,3409.64,SI,Físico
+LM-P00708,LM000708,Académico Modelo 0708,Infantil,Marca E,1975.52,3270.23,NO,Físico
+LM-P00709,LM000709,Infantil Modelo 0709,Digital,Marca L,2324.22,3158.59,SI,Físico
+LM-P00710,LM000710,Juegos Modelo 0710,Ficción,Marca J,603.43,967.6,SI,Digital
+LM-P00711,LM000711,Digital Modelo 0711,No ficción,Marca A,1856.48,2444.6,SI,Físico
+LM-P00712,LM000712,Juegos Modelo 0712,Académico,Marca J,823.4,1357.09,SI,Digital
+LM-P00713,LM000713,Papelería Modelo 0713,Infantil,Marca G,2099.52,3135.24,SI,Digital
+LM-P00714,LM000714,Digital Modelo 0714,Infantil,Marca N,241.7,401.52,SI,Audiolibro
+LM-P00715,LM000715,Juegos Modelo 0715,Papelería,Marca F,2423.74,3964.82,SI,Físico
+LM-P00716,LM000716,Académico Modelo 0716,Juegos,Marca D,454.01,718.02,SI,Físico
+LM-P00717,LM000717,Ficción Modelo 0717,Académico,Marca B,28.93,36.95,SI,Físico
+LM-P00718,LM000718,Digital Modelo 0718,No ficción,Marca L,2216.83,2766.59,SI,Digital
+LM-P00719,LM000719,Infantil Modelo 0719,Digital,Marca G,1260.68,2177.78,SI,Físico
+LM-P00720,LM000720,Infantil Modelo 0720,Juegos,Marca B,287.03,478.19,SI,Físico
+LM-P00721,LM000721,Papelería Modelo 0721,Ficción,Marca J,2089.67,3591.49,SI,Físico
+LM-P00722,LM000722,Infantil Modelo 0722,Ficción,Marca G,732.01,1007.11,SI,Físico
+LM-P00723,LM000723,Académico Modelo 0723,Infantil,Marca E,1939.55,2683.41,SI,Digital
+LM-P00724,LM000724,Juegos Modelo 0724,Infantil,Marca E,680.26,827.42,SI,Digital
+LM-P00725,LM000725,Papelería Modelo 0725,Académico,Marca I,996.91,1482.57,NO,Físico
+LM-P00726,LM000726,Ficción Modelo 0726,Digital,Marca H,1357.76,1714.2,SI,Físico
+LM-P00727,LM000727,Ficción Modelo 0727,No ficción,Marca M,1649.73,2883.66,SI,Físico
+LM-P00728,LM000728,Digital Modelo 0728,No ficción,Marca G,961.4,1272.9,SI,Físico
+LM-P00729,LM000729,Papelería Modelo 0729,No ficción,Marca B,82.37,115.1,SI,Físico
+LM-P00730,LM000730,Papelería Modelo 0730,Académico,Marca I,353.33,464.09,SI,Físico
+LM-P00731,LM000731,Académico Modelo 0731,Académico,Marca I,1179.58,1886.99,SI,Digital
+LM-P00732,LM000732,Papelería Modelo 0732,Ficción,Marca G,2189.0,2871.64,SI,Físico
+LM-P00733,LM000733,Ficción Modelo 0733,Académico,Marca B,2373.5,3178.55,NO,Físico
+LM-P00734,LM000734,Papelería Modelo 0734,No ficción,Marca I,1831.74,2850.83,SI,Digital
+LM-P00735,LM000735,Académico Modelo 0735,Ficción,Marca N,1587.2,2662.8,SI,Físico
+LM-P00736,LM000736,Digital Modelo 0736,Juegos,Marca F,1047.76,1494.05,SI,Físico
+LM-P00737,LM000737,Académico Modelo 0737,Infantil,Marca B,78.34,136.94,SI,Físico
+LM-P00738,LM000738,Digital Modelo 0738,No ficción,Marca N,1613.46,2405.98,SI,Físico
+LM-P00739,LM000739,Papelería Modelo 0739,Académico,Marca B,835.06,1378.91,SI,Físico
+LM-P00740,LM000740,No ficción Modelo 0740,Ficción,Marca E,1910.42,2786.43,SI,Físico
+LM-P00741,LM000741,Académico Modelo 0741,Juegos,Marca J,2499.97,4082.38,SI,Físico
+LM-P00742,LM000742,Académico Modelo 0742,Ficción,Marca A,2354.43,2943.88,SI,Físico
+LM-P00743,LM000743,Infantil Modelo 0743,Ficción,Marca L,2412.34,4014.1,SI,Físico
+LM-P00744,LM000744,Digital Modelo 0744,Juegos,Marca L,2107.7,2756.27,SI,Digital
+LM-P00745,LM000745,No ficción Modelo 0745,No ficción,Marca J,2120.23,3314.15,SI,Físico
+LM-P00746,LM000746,Infantil Modelo 0746,Académico,Marca M,2200.2,3511.08,SI,Digital
+LM-P00747,LM000747,Ficción Modelo 0747,Ficción,Marca E,1155.26,1369.44,SI,Físico
+LM-P00748,LM000748,Papelería Modelo 0748,Académico,Marca E,1612.08,2451.42,SI,Físico
+LM-P00749,LM000749,Infantil Modelo 0749,Infantil,Marca C,1719.65,2802.72,SI,Físico
+LM-P00750,LM000750,Académico Modelo 0750,Infantil,Marca B,1140.21,1412.7,SI,Físico
+LM-P00751,LM000751,Digital Modelo 0751,Infantil,Marca N,330.79,551.55,SI,Digital
+LM-P00752,LM000752,No ficción Modelo 0752,Ficción,Marca E,340.03,572.43,SI,Digital
+LM-P00753,LM000753,Académico Modelo 0753,Papelería,Marca E,801.3,1397.72,SI,Físico
+LM-P00754,LM000754,Juegos Modelo 0754,Infantil,Marca E,774.05,1153.37,SI,Digital
+LM-P00755,LM000755,Juegos Modelo 0755,Digital,Marca N,1888.6,2851.56,SI,Físico
+LM-P00756,LM000756,Académico Modelo 0756,Papelería,Marca M,950.65,1482.73,SI,Físico
+LM-P00757,LM000757,Juegos Modelo 0757,Juegos,Marca H,784.65,1060.74,SI,Físico
+LM-P00758,LM000758,No ficción Modelo 0758,Ficción,Marca C,91.2,117.35,SI,Físico
+LM-P00759,LM000759,Digital Modelo 0759,Ficción,Marca L,857.97,1454.75,SI,Digital
+LM-P00760,LM000760,Infantil Modelo 0760,Digital,Marca J,427.4,729.24,SI,Digital
+LM-P00761,LM000761,Digital Modelo 0761,Ficción,Marca L,467.44,608.9,SI,Audiolibro
+LM-P00762,LM000762,No ficción Modelo 0762,Ficción,Marca F,69.21,115.49,SI,Físico
+LM-P00763,LM000763,Juegos Modelo 0763,Infantil,Marca C,2473.73,4315.27,SI,Físico
+LM-P00764,LM000764,No ficción Modelo 0764,No ficción,Marca J,1969.85,3024.05,SI,Físico
+LM-P00765,LM000765,Infantil Modelo 0765,Digital,Marca B,989.19,1249.46,SI,Físico
+LM-P00766,LM000766,Papelería Modelo 0766,No ficción,Marca I,308.53,526.67,SI,Físico
+LM-P00767,LM000767,Infantil Modelo 0767,Académico,Marca C,2380.25,3431.44,SI,Físico
+LM-P00768,LM000768,Infantil Modelo 0768,Digital,Marca L,635.15,785.73,SI,Audiolibro
+LM-P00769,LM000769,Juegos Modelo 0769,No ficción,Marca M,335.01,534.17,SI,Físico
+LM-P00770,LM000770,Papelería Modelo 0770,Ficción,Marca E,1720.96,2653.21,SI,Audiolibro
+LM-P00771,LM000771,Ficción Modelo 0771,Ficción,Marca H,1225.97,1634.66,SI,Físico
+LM-P00772,LM000772,Académico Modelo 0772,Infantil,Marca H,1327.77,2035.52,NO,Físico
+LM-P00773,LM000773,Juegos Modelo 0773,No ficción,Marca J,2224.74,3867.82,SI,Físico
+LM-P00774,LM000774,Infantil Modelo 0774,No ficción,Marca H,1721.76,2153.47,SI,Físico
+LM-P00775,LM000775,No ficción Modelo 0775,No ficción,Marca H,2020.78,3234.53,SI,Audiolibro
+LM-P00776,LM000776,Académico Modelo 0776,Infantil,Marca B,1546.65,2649.58,SI,Físico
+LM-P00777,LM000777,Juegos Modelo 0777,No ficción,Marca H,62.88,87.42,SI,Físico
+LM-P00778,LM000778,No ficción Modelo 0778,Infantil,Marca K,2294.42,3567.54,SI,Digital
+LM-P00779,LM000779,Infantil Modelo 0779,Ficción,Marca B,1603.36,2216.34,SI,Físico
+LM-P00780,LM000780,Ficción Modelo 0780,Infantil,Marca D,487.96,763.54,NO,Digital
+LM-P00781,LM000781,No ficción Modelo 0781,Papelería,Marca B,1338.58,1939.78,SI,Audiolibro
+LM-P00782,LM000782,Académico Modelo 0782,Juegos,Marca C,1226.47,2071.62,SI,Físico
+LM-P00783,LM000783,No ficción Modelo 0783,Ficción,Marca N,2271.34,3442.46,SI,Físico
+LM-P00784,LM000784,Papelería Modelo 0784,Infantil,Marca G,1232.18,2129.43,NO,Físico
+LM-P00785,LM000785,Académico Modelo 0785,No ficción,Marca J,2082.88,3453.0,SI,Físico
+LM-P00786,LM000786,Juegos Modelo 0786,Ficción,Marca D,1023.31,1702.81,SI,Físico
+LM-P00787,LM000787,Ficción Modelo 0787,Académico,Marca K,854.17,1060.6,SI,Digital
+LM-P00788,LM000788,No ficción Modelo 0788,Académico,Marca A,1061.42,1297.22,SI,Físico
+LM-P00789,LM000789,Papelería Modelo 0789,No ficción,Marca E,881.08,1346.54,NO,Físico
+LM-P00790,LM000790,Ficción Modelo 0790,Digital,Marca G,275.86,466.24,SI,Físico
+LM-P00791,LM000791,No ficción Modelo 0791,Académico,Marca E,1440.16,2146.28,SI,Digital
+LM-P00792,LM000792,Ficción Modelo 0792,Juegos,Marca A,879.31,1121.37,SI,Digital
+LM-P00793,LM000793,Papelería Modelo 0793,No ficción,Marca C,980.65,1225.21,NO,Físico
+LM-P00794,LM000794,Ficción Modelo 0794,Juegos,Marca J,1991.18,2459.48,SI,Físico
+LM-P00795,LM000795,No ficción Modelo 0795,Infantil,Marca L,1689.79,2634.34,SI,Físico
+LM-P00796,LM000796,Papelería Modelo 0796,Juegos,Marca D,826.48,1368.71,SI,Físico
+LM-P00797,LM000797,No ficción Modelo 0797,Papelería,Marca K,2304.93,3078.92,SI,Digital
+LM-P00798,LM000798,No ficción Modelo 0798,Académico,Marca C,1085.8,1322.73,SI,Físico
+LM-P00799,LM000799,Digital Modelo 0799,Académico,Marca F,1199.04,1442.93,SI,Digital
+LM-P00800,LM000800,Académico Modelo 0800,Digital,Marca F,643.19,1047.1,SI,Digital
+LM-P00801,LM000801,Papelería Modelo 0801,Infantil,Marca L,2290.05,2907.4,SI,Físico
+LM-P00802,LM000802,Infantil Modelo 0802,Infantil,Marca J,1040.13,1775.9,SI,Digital
+LM-P00803,LM000803,Papelería Modelo 0803,Juegos,Marca B,1689.81,2048.67,SI,Físico
+LM-P00804,LM000804,Académico Modelo 0804,No ficción,Marca E,434.98,738.88,SI,Físico
+LM-P00805,LM000805,No ficción Modelo 0805,Digital,Marca L,2262.81,3841.67,NO,Físico
+LM-P00806,LM000806,Papelería Modelo 0806,Juegos,Marca J,1820.65,2386.32,SI,Físico
+LM-P00807,LM000807,Digital Modelo 0807,Digital,Marca M,1634.62,2071.84,SI,Físico
+LM-P00808,LM000808,Académico Modelo 0808,Infantil,Marca D,1335.58,2137.35,SI,Físico
+LM-P00809,LM000809,Papelería Modelo 0809,Juegos,Marca J,2064.07,3377.86,SI,Físico
+LM-P00810,LM000810,Ficción Modelo 0810,Infantil,Marca I,1492.02,2409.88,SI,Físico
+LM-P00811,LM000811,Académico Modelo 0811,Ficción,Marca K,1968.26,2614.91,SI,Físico
+LM-P00812,LM000812,Infantil Modelo 0812,Papelería,Marca M,2053.04,3436.37,SI,Físico
+LM-P00813,LM000813,Infantil Modelo 0813,Académico,Marca M,2416.98,3057.87,SI,Audiolibro
+LM-P00814,LM000814,Ficción Modelo 0814,Juegos,Marca C,883.4,1372.12,SI,Físico
+LM-P00815,LM000815,Infantil Modelo 0815,Papelería,Marca G,1630.65,2828.07,SI,Digital
+LM-P00816,LM000816,Académico Modelo 0816,Digital,Marca C,1864.09,2817.89,SI,Físico
+LM-P00817,LM000817,Infantil Modelo 0817,Académico,Marca J,127.18,176.0,SI,Físico
+LM-P00818,LM000818,Infantil Modelo 0818,Digital,Marca I,1843.54,2341.51,SI,Físico
+LM-P00819,LM000819,Digital Modelo 0819,Digital,Marca G,271.44,329.52,SI,Físico
+LM-P00820,LM000820,Infantil Modelo 0820,No ficción,Marca K,1982.02,3343.97,SI,Físico
+LM-P00821,LM000821,Papelería Modelo 0821,No ficción,Marca I,1872.63,2887.24,SI,Físico
+LM-P00822,LM000822,Infantil Modelo 0822,Académico,Marca H,1093.58,1902.05,SI,Físico
+LM-P00823,LM000823,Juegos Modelo 0823,Infantil,Marca H,956.25,1497.77,SI,Digital
+LM-P00824,LM000824,Infantil Modelo 0824,Juegos,Marca I,2171.89,2981.44,NO,Físico
+LM-P00825,LM000825,No ficción Modelo 0825,Infantil,Marca F,951.92,1323.25,SI,Físico
+LM-P00826,LM000826,No ficción Modelo 0826,Juegos,Marca I,1448.22,2150.1,SI,Físico
+LM-P00827,LM000827,Infantil Modelo 0827,Infantil,Marca L,1336.27,1923.52,SI,Físico
+LM-P00828,LM000828,Digital Modelo 0828,Ficción,Marca C,2070.87,2676.21,SI,Físico
+LM-P00829,LM000829,Infantil Modelo 0829,Infantil,Marca J,1855.91,2511.85,SI,Físico
+LM-P00830,LM000830,Infantil Modelo 0830,Ficción,Marca I,542.69,890.86,SI,Digital
+LM-P00831,LM000831,Juegos Modelo 0831,Infantil,Marca L,494.13,784.08,SI,Digital
+LM-P00832,LM000832,Académico Modelo 0832,Académico,Marca N,1318.4,1892.58,SI,Físico
+LM-P00833,LM000833,Ficción Modelo 0833,Académico,Marca N,2073.03,2606.15,SI,Físico
+LM-P00834,LM000834,Papelería Modelo 0834,Académico,Marca D,2379.11,3219.54,SI,Físico
+LM-P00835,LM000835,Digital Modelo 0835,Digital,Marca N,72.6,118.46,SI,Físico
+LM-P00836,LM000836,Ficción Modelo 0836,Infantil,Marca F,1444.66,1836.23,SI,Audiolibro
+LM-P00837,LM000837,Digital Modelo 0837,Juegos,Marca N,1172.19,1658.72,SI,Audiolibro
+LM-P00838,LM000838,Digital Modelo 0838,Juegos,Marca I,1346.88,1965.49,SI,Digital
+LM-P00839,LM000839,Infantil Modelo 0839,Académico,Marca L,1377.32,1721.57,SI,Digital
+LM-P00840,LM000840,Ficción Modelo 0840,Académico,Marca J,1796.48,2940.42,SI,Digital
+LM-P00841,LM000841,Digital Modelo 0841,Papelería,Marca C,1332.44,1876.19,SI,Digital
+LM-P00842,LM000842,Juegos Modelo 0842,Infantil,Marca M,2009.28,3397.89,SI,Físico
+LM-P00843,LM000843,Juegos Modelo 0843,Ficción,Marca B,437.17,610.78,SI,Físico
+LM-P00844,LM000844,Ficción Modelo 0844,Infantil,Marca F,2298.23,3891.78,SI,Físico
+LM-P00845,LM000845,Juegos Modelo 0845,Académico,Marca E,1838.0,2300.34,NO,Físico
+LM-P00846,LM000846,Académico Modelo 0846,Ficción,Marca H,1089.38,1589.41,SI,Físico
+LM-P00847,LM000847,Digital Modelo 0847,Papelería,Marca H,1343.22,2026.47,SI,Físico
+LM-P00848,LM000848,Juegos Modelo 0848,Infantil,Marca A,2303.83,3048.96,SI,Digital
+LM-P00849,LM000849,Académico Modelo 0849,Papelería,Marca G,2215.34,2737.44,SI,Físico
+LM-P00850,LM000850,Infantil Modelo 0850,Digital,Marca D,2244.93,2780.64,SI,Físico
+LM-P00851,LM000851,Infantil Modelo 0851,Académico,Marca K,733.15,1047.68,SI,Físico
+LM-P00852,LM000852,Digital Modelo 0852,Infantil,Marca J,1356.0,2142.9,SI,Físico
+LM-P00853,LM000853,Digital Modelo 0853,Digital,Marca N,48.26,57.08,SI,Físico
+LM-P00854,LM000854,Infantil Modelo 0854,Infantil,Marca E,1143.56,1805.61,SI,Digital
+LM-P00855,LM000855,Digital Modelo 0855,No ficción,Marca J,91.77,152.01,SI,Físico
+LM-P00856,LM000856,No ficción Modelo 0856,Juegos,Marca H,720.3,1001.83,SI,Físico
+LM-P00857,LM000857,No ficción Modelo 0857,No ficción,Marca G,1930.47,3370.78,NO,Físico
+LM-P00858,LM000858,Infantil Modelo 0858,Digital,Marca M,1052.66,1524.84,SI,Físico
+LM-P00859,LM000859,Digital Modelo 0859,Académico,Marca M,1930.44,2676.72,SI,Físico
+LM-P00860,LM000860,Ficción Modelo 0860,Juegos,Marca L,1641.79,2814.87,SI,Físico
+LM-P00861,LM000861,No ficción Modelo 0861,Digital,Marca C,2057.84,2981.87,SI,Físico
+LM-P00862,LM000862,Infantil Modelo 0862,No ficción,Marca D,1042.02,1298.34,SI,Digital
+LM-P00863,LM000863,Papelería Modelo 0863,Infantil,Marca L,1048.8,1743.86,SI,Digital
+LM-P00864,LM000864,Juegos Modelo 0864,Juegos,Marca D,516.77,773.59,SI,Físico
+LM-P00865,LM000865,Juegos Modelo 0865,Ficción,Marca H,1063.92,1713.69,SI,Físico
+LM-P00866,LM000866,Ficción Modelo 0866,Ficción,Marca G,105.41,129.86,SI,Físico
+LM-P00867,LM000867,Infantil Modelo 0867,Ficción,Marca E,1116.06,1810.03,SI,Físico
+LM-P00868,LM000868,Papelería Modelo 0868,Papelería,Marca G,60.5,105.4,SI,Físico
+LM-P00869,LM000869,Ficción Modelo 0869,Infantil,Marca I,2006.73,3257.15,SI,Digital
+LM-P00870,LM000870,Digital Modelo 0870,No ficción,Marca I,33.26,42.28,SI,Físico
+LM-P00871,LM000871,Infantil Modelo 0871,Juegos,Marca L,1159.26,1909.66,SI,Digital
+LM-P00872,LM000872,Académico Modelo 0872,Ficción,Marca N,757.49,1274.04,SI,Físico
+LM-P00873,LM000873,Ficción Modelo 0873,Académico,Marca K,2415.86,3895.13,SI,Físico
+LM-P00874,LM000874,Académico Modelo 0874,No ficción,Marca L,502.94,755.87,SI,Físico
+LM-P00875,LM000875,Ficción Modelo 0875,Digital,Marca F,1717.44,2191.22,SI,Físico
+LM-P00876,LM000876,Ficción Modelo 0876,Ficción,Marca M,1185.19,1724.31,SI,Físico
+LM-P00877,LM000877,Digital Modelo 0877,Infantil,Marca M,408.53,519.06,SI,Físico
+LM-P00878,LM000878,Digital Modelo 0878,Papelería,Marca D,506.05,800.97,SI,Físico
+LM-P00879,LM000879,Infantil Modelo 0879,Digital,Marca A,547.22,653.58,SI,Físico
+LM-P00880,LM000880,Papelería Modelo 0880,Digital,Marca J,2420.2,4156.01,SI,Digital
+LM-P00881,LM000881,Juegos Modelo 0881,Académico,Marca N,2304.85,3237.1,SI,Físico
+LM-P00882,LM000882,Papelería Modelo 0882,Académico,Marca J,1999.0,3065.87,SI,Físico
+LM-P00883,LM000883,Juegos Modelo 0883,No ficción,Marca N,2235.16,2721.41,SI,Físico
+LM-P00884,LM000884,Académico Modelo 0884,Digital,Marca E,766.71,1068.24,SI,Físico
+LM-P00885,LM000885,Digital Modelo 0885,Juegos,Marca F,1017.66,1238.89,SI,Físico
+LM-P00886,LM000886,Juegos Modelo 0886,Infantil,Marca H,437.7,734.88,SI,Físico
+LM-P00887,LM000887,Juegos Modelo 0887,Papelería,Marca E,569.54,675.23,SI,Digital
+LM-P00888,LM000888,Infantil Modelo 0888,Papelería,Marca C,1256.36,1752.03,SI,Físico
+LM-P00889,LM000889,Infantil Modelo 0889,Académico,Marca G,1117.86,1348.31,SI,Digital
+LM-P00890,LM000890,Juegos Modelo 0890,Infantil,Marca J,314.22,527.46,SI,Digital
+LM-P00891,LM000891,Juegos Modelo 0891,Académico,Marca A,2189.18,3748.99,SI,Digital
+LM-P00892,LM000892,Papelería Modelo 0892,Académico,Marca N,2280.45,2864.86,SI,Físico
+LM-P00893,LM000893,Digital Modelo 0893,Papelería,Marca C,2397.99,2845.39,SI,Físico
+LM-P00894,LM000894,Infantil Modelo 0894,Infantil,Marca B,1042.58,1739.8,SI,Físico
+LM-P00895,LM000895,Académico Modelo 0895,Papelería,Marca D,855.25,1217.43,SI,Físico
+LM-P00896,LM000896,Juegos Modelo 0896,Ficción,Marca N,833.05,1410.96,SI,Digital
+LM-P00897,LM000897,No ficción Modelo 0897,Digital,Marca B,476.23,695.13,SI,Físico
+LM-P00898,LM000898,Digital Modelo 0898,Infantil,Marca N,720.21,1200.53,SI,Físico
+LM-P00899,LM000899,Ficción Modelo 0899,No ficción,Marca A,1909.37,3060.5,SI,Físico
+LM-P00900,LM000900,Infantil Modelo 0900,Infantil,Marca M,2459.97,3384.05,SI,Digital
+LM-P00901,LM000901,Juegos Modelo 0901,Papelería,Marca C,882.75,1165.32,SI,Físico
+LM-P00902,LM000902,Infantil Modelo 0902,Infantil,Marca I,1825.78,2262.1,SI,Físico
+LM-P00903,LM000903,Académico Modelo 0903,Papelería,Marca C,1199.22,2058.81,SI,Digital
+LM-P00904,LM000904,Infantil Modelo 0904,Académico,Marca C,221.08,350.14,SI,Físico
+LM-P00905,LM000905,No ficción Modelo 0905,Ficción,Marca C,340.58,565.71,SI,Audiolibro
+LM-P00906,LM000906,No ficción Modelo 0906,No ficción,Marca K,2070.52,2996.84,NO,Físico
+LM-P00907,LM000907,Digital Modelo 0907,Ficción,Marca H,55.74,88.46,SI,Físico
+LM-P00908,LM000908,No ficción Modelo 0908,Ficción,Marca M,1831.84,2776.64,SI,Físico
+LM-P00909,LM000909,Juegos Modelo 0909,No ficción,Marca N,1986.09,2713.52,SI,Físico
+LM-P00910,LM000910,Papelería Modelo 0910,Infantil,Marca E,877.24,1257.16,SI,Físico
+LM-P00911,LM000911,Digital Modelo 0911,Infantil,Marca N,284.49,373.4,SI,Físico
+LM-P00912,LM000912,No ficción Modelo 0912,No ficción,Marca N,38.12,58.96,SI,Físico
+LM-P00913,LM000913,Papelería Modelo 0913,Académico,Marca C,648.63,979.18,SI,Físico
+LM-P00914,LM000914,Académico Modelo 0914,Ficción,Marca F,298.69,384.25,SI,Audiolibro
+LM-P00915,LM000915,Papelería Modelo 0915,Juegos,Marca H,1748.52,2315.55,SI,Digital
+LM-P00916,LM000916,Académico Modelo 0916,Infantil,Marca B,177.68,212.08,SI,Físico
+LM-P00917,LM000917,Académico Modelo 0917,Ficción,Marca J,2306.86,3125.71,SI,Físico
+LM-P00918,LM000918,Académico Modelo 0918,Papelería,Marca D,2374.47,2881.88,SI,Digital
+LM-P00919,LM000919,Digital Modelo 0919,No ficción,Marca A,1046.78,1324.9,SI,Físico
+LM-P00920,LM000920,Digital Modelo 0920,Juegos,Marca A,1746.04,2976.88,SI,Físico
+LM-P00921,LM000921,No ficción Modelo 0921,No ficción,Marca C,2054.21,2960.02,SI,Físico
+LM-P00922,LM000922,Ficción Modelo 0922,Juegos,Marca J,1100.09,1654.37,SI,Físico
+LM-P00923,LM000923,Infantil Modelo 0923,Ficción,Marca A,1493.2,2106.99,SI,Digital
+LM-P00924,LM000924,Juegos Modelo 0924,Juegos,Marca C,877.18,1178.21,SI,Físico
+LM-P00925,LM000925,Digital Modelo 0925,Juegos,Marca G,145.09,189.27,SI,Físico
+LM-P00926,LM000926,No ficción Modelo 0926,Digital,Marca I,1868.28,2620.75,SI,Digital
+LM-P00927,LM000927,No ficción Modelo 0927,Ficción,Marca B,429.1,704.67,SI,Físico
+LM-P00928,LM000928,Ficción Modelo 0928,Ficción,Marca B,476.7,808.6,SI,Físico
+LM-P00929,LM000929,Digital Modelo 0929,Papelería,Marca G,1541.65,1969.31,SI,Digital
+LM-P00930,LM000930,Digital Modelo 0930,Académico,Marca L,2045.32,2889.16,SI,Físico
+LM-P00931,LM000931,Juegos Modelo 0931,No ficción,Marca G,1182.23,1934.0,SI,Físico
+LM-P00932,LM000932,Infantil Modelo 0932,Digital,Marca E,210.76,343.77,SI,Físico
+LM-P00933,LM000933,Académico Modelo 0933,Ficción,Marca C,338.27,572.9,SI,Audiolibro
+LM-P00934,LM000934,Digital Modelo 0934,Ficción,Marca F,2096.68,2755.69,SI,Físico
+LM-P00935,LM000935,Juegos Modelo 0935,Académico,Marca I,665.91,824.62,SI,Físico
+LM-P00936,LM000936,Académico Modelo 0936,Infantil,Marca G,452.47,543.02,SI,Digital
+LM-P00937,LM000937,Infantil Modelo 0937,Académico,Marca G,675.74,1060.02,SI,Físico
+LM-P00938,LM000938,Infantil Modelo 0938,No ficción,Marca I,353.18,500.63,SI,Físico
+LM-P00939,LM000939,No ficción Modelo 0939,No ficción,Marca H,838.78,1383.14,SI,Físico
+LM-P00940,LM000940,No ficción Modelo 0940,Juegos,Marca J,114.59,167.75,SI,Físico
+LM-P00941,LM000941,Infantil Modelo 0941,Ficción,Marca B,1088.22,1782.34,SI,Físico
+LM-P00942,LM000942,No ficción Modelo 0942,Ficción,Marca I,2486.38,3770.4,SI,Audiolibro
+LM-P00943,LM000943,No ficción Modelo 0943,Infantil,Marca N,2479.28,3339.07,SI,Físico
+LM-P00944,LM000944,No ficción Modelo 0944,Juegos,Marca N,1284.09,2188.28,SI,Físico
+LM-P00945,LM000945,Juegos Modelo 0945,No ficción,Marca G,1184.48,1709.86,SI,Digital
+LM-P00946,LM000946,Digital Modelo 0946,Ficción,Marca H,2028.67,2493.85,SI,Físico
+LM-P00947,LM000947,Infantil Modelo 0947,Digital,Marca N,154.4,194.97,SI,Físico
+LM-P00948,LM000948,Digital Modelo 0948,Infantil,Marca C,503.06,688.8,SI,Físico
+LM-P00949,LM000949,Juegos Modelo 0949,Ficción,Marca G,2109.49,2877.8,SI,Físico
+LM-P00950,LM000950,Digital Modelo 0950,Ficción,Marca M,848.37,1287.43,SI,Físico
+LM-P00951,LM000951,Papelería Modelo 0951,Papelería,Marca N,2161.01,3759.83,SI,Físico
+LM-P00952,LM000952,Ficción Modelo 0952,Académico,Marca B,1055.91,1842.01,SI,Físico
+LM-P00953,LM000953,Digital Modelo 0953,Académico,Marca H,2191.9,3615.88,SI,Audiolibro
+LM-P00954,LM000954,Ficción Modelo 0954,Infantil,Marca E,1195.9,1984.97,SI,Digital
+LM-P00955,LM000955,Papelería Modelo 0955,No ficción,Marca E,2039.99,2898.36,SI,Físico
+LM-P00956,LM000956,Digital Modelo 0956,Papelería,Marca N,1545.44,2002.72,SI,Físico
+LM-P00957,LM000957,Ficción Modelo 0957,No ficción,Marca I,2072.15,2761.31,SI,Físico
+LM-P00958,LM000958,No ficción Modelo 0958,Ficción,Marca A,2382.24,3190.39,SI,Digital
+LM-P00959,LM000959,Académico Modelo 0959,Digital,Marca E,1157.81,1516.31,SI,Físico
+LM-P00960,LM000960,Digital Modelo 0960,Ficción,Marca A,407.89,589.57,SI,Físico
+LM-P00961,LM000961,Infantil Modelo 0961,Digital,Marca N,1257.57,2189.25,SI,Físico
+LM-P00962,LM000962,Académico Modelo 0962,Infantil,Marca I,620.94,1072.14,SI,Digital
+LM-P00963,LM000963,Digital Modelo 0963,Infantil,Marca M,1688.27,2718.36,SI,Físico
+LM-P00964,LM000964,Ficción Modelo 0964,Digital,Marca D,2371.16,3319.76,SI,Audiolibro
+LM-P00965,LM000965,No ficción Modelo 0965,Juegos,Marca C,1889.86,3218.45,SI,Físico
+LM-P00966,LM000966,Académico Modelo 0966,Juegos,Marca H,1627.9,2250.21,SI,Físico
+LM-P00967,LM000967,Académico Modelo 0967,Infantil,Marca L,1179.52,1774.62,SI,Físico
+LM-P00968,LM000968,Ficción Modelo 0968,Juegos,Marca A,289.43,369.42,SI,Físico
+LM-P00969,LM000969,Papelería Modelo 0969,Papelería,Marca E,2111.95,2857.95,SI,Físico
+LM-P00970,LM000970,Académico Modelo 0970,Ficción,Marca D,2061.9,3589.75,SI,Físico
+LM-P00971,LM000971,Digital Modelo 0971,Ficción,Marca E,1975.7,2539.37,SI,Físico
+LM-P00972,LM000972,Académico Modelo 0972,Académico,Marca A,649.94,1010.89,SI,Digital
+LM-P00973,LM000973,Papelería Modelo 0973,Ficción,Marca L,1044.45,1581.86,SI,Audiolibro
+LM-P00974,LM000974,Papelería Modelo 0974,Juegos,Marca F,1419.58,2372.89,SI,Físico
+LM-P00975,LM000975,Infantil Modelo 0975,Ficción,Marca I,239.81,344.6,SI,Físico
+LM-P00976,LM000976,Ficción Modelo 0976,Juegos,Marca E,84.21,147.04,SI,Físico
+LM-P00977,LM000977,No ficción Modelo 0977,Digital,Marca G,39.53,48.64,SI,Físico
+LM-P00978,LM000978,Digital Modelo 0978,Infantil,Marca D,692.72,879.43,SI,Digital
+LM-P00979,LM000979,Infantil Modelo 0979,No ficción,Marca M,142.11,230.61,SI,Audiolibro
+LM-P00980,LM000980,No ficción Modelo 0980,Ficción,Marca F,1445.12,1986.35,SI,Físico
+LM-P00981,LM000981,No ficción Modelo 0981,Digital,Marca N,1174.57,1977.94,SI,Físico
+LM-P00982,LM000982,Digital Modelo 0982,Ficción,Marca F,2441.9,4233.06,SI,Físico
+LM-P00983,LM000983,Académico Modelo 0983,Académico,Marca E,1363.9,2326.88,SI,Audiolibro
+LM-P00984,LM000984,No ficción Modelo 0984,Infantil,Marca D,246.15,324.0,NO,Físico
+LM-P00985,LM000985,Infantil Modelo 0985,No ficción,Marca L,2005.13,3389.89,SI,Digital
+LM-P00986,LM000986,Digital Modelo 0986,Papelería,Marca B,2154.79,3332.19,SI,Digital
+LM-P00987,LM000987,Académico Modelo 0987,No ficción,Marca D,105.48,160.64,NO,Físico
+LM-P00988,LM000988,No ficción Modelo 0988,Ficción,Marca H,981.88,1554.9,SI,Físico
+LM-P00989,LM000989,Ficción Modelo 0989,Juegos,Marca A,1585.17,2154.99,SI,Físico
+LM-P00990,LM000990,No ficción Modelo 0990,No ficción,Marca N,1290.61,2239.96,SI,Digital
+LM-P00991,LM000991,Digital Modelo 0991,Papelería,Marca L,727.72,1103.06,SI,Físico
+LM-P00992,LM000992,Juegos Modelo 0992,Académico,Marca K,1745.2,2803.73,SI,Digital
+LM-P00993,LM000993,No ficción Modelo 0993,No ficción,Marca M,936.95,1510.23,SI,Físico
+LM-P00994,LM000994,Académico Modelo 0994,Papelería,Marca N,781.6,1089.93,SI,Físico
+LM-P00995,LM000995,Infantil Modelo 0995,Digital,Marca J,663.71,829.75,SI,Digital
+LM-P00996,LM000996,Juegos Modelo 0996,Juegos,Marca B,1480.71,2391.43,SI,Físico
+LM-P00997,LM000997,Digital Modelo 0997,Juegos,Marca J,2019.54,2854.99,SI,Audiolibro
+LM-P00998,LM000998,Digital Modelo 0998,Académico,Marca A,987.82,1204.24,SI,Físico
+LM-P00999,LM000999,Digital Modelo 0999,Papelería,Marca B,89.76,126.34,NO,Físico
+LM-P01000,LM001000,No ficción Modelo 1000,Ficción,Marca L,2034.03,3478.99,SI,Físico
+LM-P01001,LM001001,Papelería Modelo 1001,Académico,Marca N,1476.84,2151.73,SI,Físico
+LM-P01002,LM001002,Ficción Modelo 1002,Infantil,Marca J,2057.0,3280.63,SI,Físico
+LM-P01003,LM001003,Ficción Modelo 1003,Académico,Marca I,476.13,814.98,SI,Digital
+LM-P01004,LM001004,No ficción Modelo 1004,Juegos,Marca I,1984.57,2458.01,SI,Físico
+LM-P01005,LM001005,Infantil Modelo 1005,Papelería,Marca B,682.6,1191.17,SI,Físico
+LM-P01006,LM001006,Ficción Modelo 1006,Académico,Marca E,1560.75,2424.29,SI,Digital
+LM-P01007,LM001007,Académico Modelo 1007,No ficción,Marca N,787.58,1160.96,SI,Audiolibro
+LM-P01008,LM001008,Ficción Modelo 1008,No ficción,Marca A,1445.85,2211.58,SI,Físico
+LM-P01009,LM001009,Papelería Modelo 1009,Papelería,Marca M,598.29,979.05,SI,Físico
+LM-P01010,LM001010,Juegos Modelo 1010,Ficción,Marca K,892.26,1254.96,SI,Digital
+LM-P01011,LM001011,Papelería Modelo 1011,Papelería,Marca K,1098.74,1717.51,SI,Digital
+LM-P01012,LM001012,Papelería Modelo 1012,Juegos,Marca H,518.21,679.12,NO,Físico
+LM-P01013,LM001013,Juegos Modelo 1013,Juegos,Marca L,2213.33,2746.56,NO,Físico
+LM-P01014,LM001014,Papelería Modelo 1014,Digital,Marca L,2226.51,3647.02,SI,Digital
+LM-P01015,LM001015,Digital Modelo 1015,Digital,Marca K,2026.82,2917.58,SI,Físico
+LM-P01016,LM001016,No ficción Modelo 1016,Académico,Marca E,765.77,969.57,SI,Físico
+LM-P01017,LM001017,Digital Modelo 1017,Infantil,Marca C,874.04,1396.73,SI,Físico
+LM-P01018,LM001018,Papelería Modelo 1018,No ficción,Marca K,1773.25,3076.24,SI,Digital
+LM-P01019,LM001019,Juegos Modelo 1019,No ficción,Marca C,566.64,793.29,SI,Digital
+LM-P01020,LM001020,No ficción Modelo 1020,Infantil,Marca N,2340.42,3709.52,SI,Físico
+LM-P01021,LM001021,Digital Modelo 1021,Digital,Marca G,2483.42,3055.12,SI,Digital
+LM-P01022,LM001022,Juegos Modelo 1022,Digital,Marca K,894.07,1390.74,SI,Físico
+LM-P01023,LM001023,No ficción Modelo 1023,No ficción,Marca C,1503.09,1925.01,SI,Digital
+LM-P01024,LM001024,Juegos Modelo 1024,Ficción,Marca I,1449.39,2373.87,SI,Físico
+LM-P01025,LM001025,Ficción Modelo 1025,Digital,Marca C,1177.28,1760.38,SI,Físico
+LM-P01026,LM001026,No ficción Modelo 1026,Infantil,Marca N,1262.96,2083.02,SI,Físico
+LM-P01027,LM001027,Académico Modelo 1027,Juegos,Marca D,1551.08,2446.88,SI,Físico
+LM-P01028,LM001028,Digital Modelo 1028,Juegos,Marca G,2202.51,2849.07,SI,Físico
+LM-P01029,LM001029,Digital Modelo 1029,Académico,Marca K,2123.87,3065.82,SI,Digital
+LM-P01030,LM001030,Infantil Modelo 1030,Académico,Marca J,802.02,1129.68,SI,Físico
+LM-P01031,LM001031,Infantil Modelo 1031,Digital,Marca H,22.54,34.74,SI,Físico
+LM-P01032,LM001032,No ficción Modelo 1032,Digital,Marca A,1287.15,2039.35,SI,Físico
+LM-P01033,LM001033,Infantil Modelo 1033,No ficción,Marca F,543.92,945.56,SI,Digital
+LM-P01034,LM001034,Digital Modelo 1034,Ficción,Marca M,1063.49,1717.76,SI,Audiolibro
+LM-P01035,LM001035,No ficción Modelo 1035,Juegos,Marca E,1112.28,1441.12,SI,Físico
+LM-P01036,LM001036,Papelería Modelo 1036,Juegos,Marca B,227.88,393.7,SI,Físico
+LM-P01037,LM001037,Académico Modelo 1037,Digital,Marca L,1076.33,1776.01,SI,Físico
+LM-P01038,LM001038,Infantil Modelo 1038,No ficción,Marca C,55.18,77.12,SI,Digital
+LM-P01039,LM001039,Digital Modelo 1039,Académico,Marca E,916.93,1132.93,SI,Físico
+LM-P01040,LM001040,Académico Modelo 1040,Digital,Marca D,524.18,686.42,SI,Físico
+LM-P01041,LM001041,Ficción Modelo 1041,Papelería,Marca B,259.23,361.78,SI,Físico
+LM-P01042,LM001042,Juegos Modelo 1042,Ficción,Marca J,1272.11,2011.56,SI,Audiolibro
+LM-P01043,LM001043,No ficción Modelo 1043,Digital,Marca C,2009.43,3276.75,SI,Audiolibro
+LM-P01044,LM001044,Juegos Modelo 1044,Infantil,Marca B,535.59,866.06,SI,Físico
+LM-P01045,LM001045,Académico Modelo 1045,Digital,Marca B,1386.39,1712.57,NO,Físico
+LM-P01046,LM001046,No ficción Modelo 1046,Infantil,Marca I,2225.64,2750.46,SI,Físico
+LM-P01047,LM001047,Juegos Modelo 1047,Ficción,Marca N,461.53,614.55,SI,Físico
+LM-P01048,LM001048,No ficción Modelo 1048,Ficción,Marca C,1534.51,2205.38,SI,Digital
+LM-P01049,LM001049,Papelería Modelo 1049,Papelería,Marca J,2129.1,2911.92,SI,Físico
+LM-P01050,LM001050,Infantil Modelo 1050,Digital,Marca K,1513.4,2244.53,SI,Físico
+LM-P01051,LM001051,No ficción Modelo 1051,Infantil,Marca A,991.73,1524.22,SI,Físico
+LM-P01052,LM001052,Ficción Modelo 1052,Papelería,Marca E,1289.35,1635.18,NO,Físico
+LM-P01053,LM001053,Juegos Modelo 1053,Juegos,Marca A,1617.84,2158.46,SI,Físico
+LM-P01054,LM001054,Juegos Modelo 1054,Ficción,Marca L,361.29,477.99,SI,Digital
+LM-P01055,LM001055,Digital Modelo 1055,Papelería,Marca I,1020.5,1482.47,SI,Físico
+LM-P01056,LM001056,Juegos Modelo 1056,Papelería,Marca C,474.27,711.73,SI,Físico
+LM-P01057,LM001057,Papelería Modelo 1057,Papelería,Marca E,2289.53,3047.36,SI,Digital
+LM-P01058,LM001058,Académico Modelo 1058,Juegos,Marca B,197.6,316.59,NO,Físico
+LM-P01059,LM001059,No ficción Modelo 1059,No ficción,Marca L,1118.31,1660.7,SI,Físico
+LM-P01060,LM001060,Infantil Modelo 1060,Papelería,Marca B,941.43,1523.75,SI,Digital
+LM-P01061,LM001061,Juegos Modelo 1061,Juegos,Marca E,1874.4,2719.83,SI,Físico
+LM-P01062,LM001062,Académico Modelo 1062,Digital,Marca I,1430.47,2248.63,SI,Físico
+LM-P01063,LM001063,Infantil Modelo 1063,Juegos,Marca B,888.21,1271.85,SI,Físico
+LM-P01064,LM001064,Infantil Modelo 1064,Juegos,Marca I,2477.87,3052.59,SI,Audiolibro
+LM-P01065,LM001065,Papelería Modelo 1065,Infantil,Marca K,814.18,1234.56,SI,Físico
+LM-P01066,LM001066,Juegos Modelo 1066,Digital,Marca F,1925.55,3301.18,SI,Físico
+LM-P01067,LM001067,No ficción Modelo 1067,Juegos,Marca I,1249.32,1988.68,SI,Físico
+LM-P01068,LM001068,Ficción Modelo 1068,Juegos,Marca B,166.63,286.3,SI,Físico
+LM-P01069,LM001069,Papelería Modelo 1069,Papelería,Marca D,1432.3,1995.29,SI,Físico
+LM-P01070,LM001070,Ficción Modelo 1070,No ficción,Marca B,425.6,675.52,SI,Físico
+LM-P01071,LM001071,Académico Modelo 1071,Juegos,Marca D,288.87,475.3,SI,Físico
+LM-P01072,LM001072,Digital Modelo 1072,Digital,Marca A,539.02,714.06,SI,Físico
+LM-P01073,LM001073,Infantil Modelo 1073,Académico,Marca F,1671.23,2428.25,SI,Físico
+LM-P01074,LM001074,Digital Modelo 1074,No ficción,Marca B,2031.15,3502.02,SI,Físico
+LM-P01075,LM001075,Ficción Modelo 1075,Infantil,Marca K,906.45,1341.46,NO,Físico
+LM-P01076,LM001076,Ficción Modelo 1076,Infantil,Marca G,442.97,592.57,SI,Físico
+LM-P01077,LM001077,No ficción Modelo 1077,No ficción,Marca J,2235.49,3439.34,SI,Físico
+LM-P01078,LM001078,Juegos Modelo 1078,No ficción,Marca H,1777.05,2528.37,SI,Físico
+LM-P01079,LM001079,Infantil Modelo 1079,Académico,Marca E,469.77,579.67,SI,Físico
+LM-P01080,LM001080,Académico Modelo 1080,Ficción,Marca B,1427.6,1833.45,SI,Físico
+LM-P01081,LM001081,Digital Modelo 1081,No ficción,Marca J,820.51,1356.02,SI,Físico
+LM-P01082,LM001082,Infantil Modelo 1082,Papelería,Marca H,1804.38,2631.02,SI,Físico
+LM-P01083,LM001083,Juegos Modelo 1083,No ficción,Marca M,695.73,1006.08,SI,Audiolibro
+LM-P01084,LM001084,Juegos Modelo 1084,Ficción,Marca L,826.67,1087.78,SI,Físico
+LM-P01085,LM001085,Infantil Modelo 1085,Juegos,Marca I,369.46,490.27,SI,Físico
+LM-P01086,LM001086,Papelería Modelo 1086,Papelería,Marca M,254.01,302.99,SI,Físico
+LM-P01087,LM001087,Juegos Modelo 1087,Juegos,Marca I,2467.42,3605.77,SI,Físico
+LM-P01088,LM001088,Papelería Modelo 1088,Papelería,Marca N,142.57,183.63,SI,Audiolibro
+LM-P01089,LM001089,Juegos Modelo 1089,Digital,Marca I,1860.83,2866.31,SI,Físico
+LM-P01090,LM001090,Ficción Modelo 1090,Infantil,Marca E,1515.2,2633.16,SI,Físico
+LM-P01091,LM001091,Juegos Modelo 1091,Papelería,Marca B,1684.93,2676.17,SI,Físico
+LM-P01092,LM001092,Digital Modelo 1092,No ficción,Marca D,1248.04,2035.63,SI,Digital
+LM-P01093,LM001093,Digital Modelo 1093,Infantil,Marca L,663.93,1082.37,SI,Audiolibro
+LM-P01094,LM001094,Académico Modelo 1094,Juegos,Marca N,1215.67,2123.18,SI,Físico
+LM-P01095,LM001095,Infantil Modelo 1095,Papelería,Marca H,2324.84,3414.67,SI,Físico
+LM-P01096,LM001096,Papelería Modelo 1096,Papelería,Marca L,2001.37,2894.92,SI,Físico
+LM-P01097,LM001097,Ficción Modelo 1097,Ficción,Marca A,1353.36,2101.03,SI,Físico
+LM-P01098,LM001098,Académico Modelo 1098,No ficción,Marca I,1182.42,2040.2,SI,Digital
+LM-P01099,LM001099,Papelería Modelo 1099,Académico,Marca J,2114.51,2949.72,SI,Físico
+LM-P01100,LM001100,Juegos Modelo 1100,Papelería,Marca E,347.78,448.14,SI,Digital
+LM-P01101,LM001101,Papelería Modelo 1101,Digital,Marca K,351.33,414.94,SI,Físico
+LM-P01102,LM001102,No ficción Modelo 1102,Ficción,Marca N,1859.19,2568.0,SI,Físico
+LM-P01103,LM001103,Infantil Modelo 1103,Infantil,Marca G,281.82,413.73,NO,Audiolibro
+LM-P01104,LM001104,No ficción Modelo 1104,No ficción,Marca J,2227.07,3165.03,NO,Audiolibro
+LM-P01105,LM001105,Académico Modelo 1105,Ficción,Marca G,1561.21,2522.32,SI,Físico
+LM-P01106,LM001106,No ficción Modelo 1106,Académico,Marca K,456.7,709.78,SI,Físico
+LM-P01107,LM001107,Académico Modelo 1107,Juegos,Marca N,1812.24,2219.74,SI,Físico
+LM-P01108,LM001108,No ficción Modelo 1108,Digital,Marca B,1971.9,3335.86,SI,Físico
+LM-P01109,LM001109,No ficción Modelo 1109,Infantil,Marca A,1030.42,1637.99,SI,Digital
+LM-P01110,LM001110,No ficción Modelo 1110,Ficción,Marca N,1647.0,2339.16,SI,Físico
+LM-P01111,LM001111,Académico Modelo 1111,Infantil,Marca G,1803.53,2457.26,SI,Físico
+LM-P01112,LM001112,No ficción Modelo 1112,Académico,Marca M,1979.21,3000.41,SI,Físico
+LM-P01113,LM001113,Ficción Modelo 1113,Infantil,Marca B,1131.6,1482.51,SI,Físico
+LM-P01114,LM001114,Infantil Modelo 1114,Ficción,Marca C,1323.58,1985.01,SI,Digital
+LM-P01115,LM001115,Ficción Modelo 1115,Académico,Marca H,2246.36,3238.4,SI,Físico
+LM-P01116,LM001116,Papelería Modelo 1116,Papelería,Marca L,1035.51,1337.69,SI,Digital
+LM-P01117,LM001117,Papelería Modelo 1117,Infantil,Marca I,1208.79,1608.04,SI,Físico
+LM-P01118,LM001118,Papelería Modelo 1118,Infantil,Marca F,469.93,800.05,SI,Físico
+LM-P01119,LM001119,No ficción Modelo 1119,Digital,Marca A,1443.46,2063.81,SI,Físico
+LM-P01120,LM001120,Papelería Modelo 1120,No ficción,Marca K,50.75,80.73,SI,Físico
+LM-P01121,LM001121,No ficción Modelo 1121,Ficción,Marca D,2315.07,3414.6,SI,Digital
+LM-P01122,LM001122,Infantil Modelo 1122,Infantil,Marca F,1871.86,2879.17,SI,Físico
+LM-P01123,LM001123,No ficción Modelo 1123,Digital,Marca A,1216.52,2082.34,SI,Digital
+LM-P01124,LM001124,Ficción Modelo 1124,Infantil,Marca K,893.72,1293.3,SI,Digital
+LM-P01125,LM001125,Ficción Modelo 1125,Juegos,Marca C,508.41,686.79,SI,Digital
+LM-P01126,LM001126,Papelería Modelo 1126,Infantil,Marca I,150.43,217.8,SI,Físico
+LM-P01127,LM001127,Infantil Modelo 1127,Ficción,Marca H,22.26,27.78,SI,Digital
+LM-P01128,LM001128,Juegos Modelo 1128,Académico,Marca I,1666.01,2425.4,SI,Físico
+LM-P01129,LM001129,Papelería Modelo 1129,Digital,Marca H,2062.5,3353.65,SI,Digital
+LM-P01130,LM001130,Papelería Modelo 1130,Infantil,Marca J,2390.85,3593.73,SI,Físico
+LM-P01131,LM001131,Ficción Modelo 1131,Juegos,Marca J,2297.23,2897.62,SI,Físico
+LM-P01132,LM001132,No ficción Modelo 1132,Académico,Marca K,1398.69,2222.64,SI,Físico
+LM-P01133,LM001133,Ficción Modelo 1133,Infantil,Marca L,2323.42,3325.01,SI,Digital
+LM-P01134,LM001134,Juegos Modelo 1134,Infantil,Marca D,319.01,471.34,SI,Físico
+LM-P01135,LM001135,Juegos Modelo 1135,Juegos,Marca H,2244.85,2961.95,SI,Físico
+LM-P01136,LM001136,Académico Modelo 1136,Digital,Marca D,1595.47,2061.08,SI,Físico
+LM-P01137,LM001137,Ficción Modelo 1137,No ficción,Marca D,562.05,730.71,SI,Físico
+LM-P01138,LM001138,Académico Modelo 1138,Académico,Marca D,1437.41,1786.86,SI,Físico
+LM-P01139,LM001139,Digital Modelo 1139,Papelería,Marca E,2226.46,3720.65,SI,Digital
+LM-P01140,LM001140,Infantil Modelo 1140,No ficción,Marca F,1289.35,2147.52,SI,Físico
+LM-P01141,LM001141,Papelería Modelo 1141,Académico,Marca D,561.81,672.45,SI,Físico
+LM-P01142,LM001142,Papelería Modelo 1142,Académico,Marca G,2334.66,3987.29,NO,Físico
+LM-P01143,LM001143,Digital Modelo 1143,Juegos,Marca L,1948.55,2385.39,SI,Digital
+LM-P01144,LM001144,Infantil Modelo 1144,Digital,Marca E,595.41,980.53,SI,Físico
+LM-P01145,LM001145,Juegos Modelo 1145,No ficción,Marca H,1728.22,2930.12,SI,Físico
+LM-P01146,LM001146,Juegos Modelo 1146,No ficción,Marca A,2087.55,3313.58,SI,Físico
+LM-P01147,LM001147,Juegos Modelo 1147,Juegos,Marca D,696.94,960.47,SI,Digital
+LM-P01148,LM001148,Académico Modelo 1148,Digital,Marca K,1818.66,2612.86,SI,Físico
+LM-P01149,LM001149,No ficción Modelo 1149,Papelería,Marca E,1609.12,2603.04,SI,Digital
+LM-P01150,LM001150,Ficción Modelo 1150,Académico,Marca H,255.82,339.83,SI,Físico
+LM-P01151,LM001151,Académico Modelo 1151,Papelería,Marca B,2019.91,2893.47,SI,Físico
+LM-P01152,LM001152,Digital Modelo 1152,Académico,Marca A,1494.63,2044.96,SI,Audiolibro
+LM-P01153,LM001153,Ficción Modelo 1153,Juegos,Marca M,242.14,334.54,SI,Digital
+LM-P01154,LM001154,Infantil Modelo 1154,Juegos,Marca H,648.88,957.01,SI,Digital
+LM-P01155,LM001155,No ficción Modelo 1155,Papelería,Marca E,448.32,677.47,SI,Físico
+LM-P01156,LM001156,Académico Modelo 1156,Papelería,Marca E,432.59,614.91,SI,Físico
+LM-P01157,LM001157,Académico Modelo 1157,No ficción,Marca I,600.36,721.61,SI,Físico
+LM-P01158,LM001158,Infantil Modelo 1158,No ficción,Marca H,2131.77,2998.04,SI,Físico
+LM-P01159,LM001159,Ficción Modelo 1159,No ficción,Marca C,1705.31,2913.93,SI,Físico
+LM-P01160,LM001160,Académico Modelo 1160,Ficción,Marca B,2396.89,2915.98,NO,Audiolibro
+LM-P01161,LM001161,Académico Modelo 1161,Académico,Marca K,1019.57,1681.07,SI,Físico
+LM-P01162,LM001162,Académico Modelo 1162,Ficción,Marca G,507.15,661.73,SI,Digital
+LM-P01163,LM001163,Académico Modelo 1163,Digital,Marca F,1764.29,2967.41,SI,Físico
+LM-P01164,LM001164,No ficción Modelo 1164,Papelería,Marca H,1317.43,1991.55,SI,Físico
+LM-P01165,LM001165,Juegos Modelo 1165,Académico,Marca G,1713.61,2698.46,SI,Físico
+LM-P01166,LM001166,Ficción Modelo 1166,Ficción,Marca E,1122.41,1342.48,SI,Físico
+LM-P01167,LM001167,Juegos Modelo 1167,Ficción,Marca N,900.12,1257.14,SI,Digital
+LM-P01168,LM001168,Académico Modelo 1168,Infantil,Marca C,2324.12,3678.11,SI,Físico
+LM-P01169,LM001169,Juegos Modelo 1169,No ficción,Marca C,2120.28,2865.73,SI,Audiolibro
+LM-P01170,LM001170,Infantil Modelo 1170,No ficción,Marca H,640.58,823.65,SI,Físico
+LM-P01171,LM001171,No ficción Modelo 1171,No ficción,Marca G,1709.6,2508.0,SI,Físico
+LM-P01172,LM001172,No ficción Modelo 1172,Ficción,Marca J,2148.97,2815.4,SI,Físico
+LM-P01173,LM001173,Académico Modelo 1173,No ficción,Marca M,107.73,183.45,SI,Físico
+LM-P01174,LM001174,No ficción Modelo 1174,Juegos,Marca D,1049.24,1541.53,SI,Físico
+LM-P01175,LM001175,Digital Modelo 1175,Papelería,Marca M,573.5,768.2,SI,Físico
+LM-P01176,LM001176,Juegos Modelo 1176,Ficción,Marca A,1639.85,2594.47,SI,Físico
+LM-P01177,LM001177,Papelería Modelo 1177,Ficción,Marca M,1536.33,2125.05,SI,Físico
+LM-P01178,LM001178,Juegos Modelo 1178,Infantil,Marca F,1174.62,1788.5,SI,Físico
+LM-P01179,LM001179,Infantil Modelo 1179,Juegos,Marca N,2053.01,3441.91,SI,Físico
+LM-P01180,LM001180,Papelería Modelo 1180,Infantil,Marca H,2210.43,3736.44,SI,Digital
+LM-P01181,LM001181,Ficción Modelo 1181,No ficción,Marca H,2314.3,3263.57,SI,Audiolibro
+LM-P01182,LM001182,Académico Modelo 1182,Papelería,Marca I,2061.6,3432.26,SI,Físico
+LM-P01183,LM001183,Académico Modelo 1183,Ficción,Marca K,736.23,1238.16,SI,Físico
+LM-P01184,LM001184,Papelería Modelo 1184,No ficción,Marca B,2251.35,2811.9,SI,Digital
+LM-P01185,LM001185,Infantil Modelo 1185,Académico,Marca B,1467.88,2392.98,SI,Físico
+LM-P01186,LM001186,Juegos Modelo 1186,Juegos,Marca G,2377.19,3786.83,SI,Físico
+LM-P01187,LM001187,Papelería Modelo 1187,Papelería,Marca I,1319.8,2071.02,NO,Físico
+LM-P01188,LM001188,Infantil Modelo 1188,No ficción,Marca D,2365.48,3289.8,SI,Físico
+LM-P01189,LM001189,Juegos Modelo 1189,Ficción,Marca A,905.69,1583.41,SI,Físico
+LM-P01190,LM001190,Ficción Modelo 1190,Académico,Marca N,1732.52,2914.71,SI,Físico
+LM-P01191,LM001191,Papelería Modelo 1191,Ficción,Marca N,1096.27,1750.08,SI,Físico
+LM-P01192,LM001192,Académico Modelo 1192,Ficción,Marca H,486.69,605.54,SI,Físico
+LM-P01193,LM001193,Ficción Modelo 1193,Académico,Marca D,632.7,910.56,SI,Audiolibro
+LM-P01194,LM001194,Digital Modelo 1194,No ficción,Marca B,1541.49,2523.4,SI,Físico
+LM-P01195,LM001195,Ficción Modelo 1195,Digital,Marca A,2293.38,3984.62,SI,Físico
+LM-P01196,LM001196,Infantil Modelo 1196,Digital,Marca L,1739.66,2816.96,SI,Físico
+LM-P01197,LM001197,Académico Modelo 1197,Infantil,Marca B,1909.11,2764.4,SI,Físico
+LM-P01198,LM001198,Digital Modelo 1198,Infantil,Marca D,916.35,1514.74,SI,Físico
+LM-P01199,LM001199,Papelería Modelo 1199,Ficción,Marca K,2292.25,2729.21,SI,Audiolibro
+LM-P01200,LM001200,Ficción Modelo 1200,Infantil,Marca L,454.3,678.39,SI,Digital
+LM-P01201,LM001201,Juegos Modelo 1201,No ficción,Marca M,982.02,1593.62,SI,Audiolibro
+LM-P01202,LM001202,Papelería Modelo 1202,Papelería,Marca D,2237.74,3178.42,SI,Físico
+LM-P01203,LM001203,Académico Modelo 1203,No ficción,Marca G,120.37,208.95,SI,Físico
+LM-P01204,LM001204,Papelería Modelo 1204,Infantil,Marca B,602.3,768.37,SI,Audiolibro
+LM-P01205,LM001205,Papelería Modelo 1205,Académico,Marca E,1059.27,1267.05,SI,Digital
+LM-P01206,LM001206,Juegos Modelo 1206,Infantil,Marca B,2265.14,3281.69,SI,Digital
+LM-P01207,LM001207,No ficción Modelo 1207,Académico,Marca A,2133.51,2872.44,NO,Físico
+LM-P01208,LM001208,Juegos Modelo 1208,No ficción,Marca M,1738.59,2662.02,SI,Físico
+LM-P01209,LM001209,Digital Modelo 1209,Académico,Marca K,2377.71,3403.77,SI,Físico
+LM-P01210,LM001210,Infantil Modelo 1210,Digital,Marca D,1683.08,2612.48,NO,Físico
+LM-P01211,LM001211,Ficción Modelo 1211,Digital,Marca I,1007.22,1262.64,SI,Audiolibro
+LM-P01212,LM001212,No ficción Modelo 1212,Digital,Marca C,1599.95,2305.22,NO,Físico
+LM-P01213,LM001213,Juegos Modelo 1213,Ficción,Marca G,748.07,970.49,SI,Físico
+LM-P01214,LM001214,Ficción Modelo 1214,Juegos,Marca M,2427.25,2891.14,SI,Digital
+LM-P01215,LM001215,Juegos Modelo 1215,Ficción,Marca E,456.43,617.68,SI,Físico
+LM-P01216,LM001216,No ficción Modelo 1216,Infantil,Marca G,1326.66,1738.65,SI,Físico
+LM-P01217,LM001217,Digital Modelo 1217,Ficción,Marca D,456.77,684.79,NO,Audiolibro
+LM-P01218,LM001218,Infantil Modelo 1218,No ficción,Marca J,766.78,962.75,SI,Físico
+LM-P01219,LM001219,Ficción Modelo 1219,Académico,Marca M,1338.17,1647.59,SI,Físico
+LM-P01220,LM001220,Digital Modelo 1220,Ficción,Marca D,478.87,702.4,SI,Físico
+LM-P01221,LM001221,Papelería Modelo 1221,Papelería,Marca N,1119.22,1436.1,SI,Digital
+LM-P01222,LM001222,Juegos Modelo 1222,Académico,Marca K,2284.04,3742.43,SI,Físico
+LM-P01223,LM001223,Infantil Modelo 1223,Digital,Marca I,2462.35,3912.05,SI,Físico
+LM-P01224,LM001224,Ficción Modelo 1224,Ficción,Marca G,1304.95,1866.66,SI,Físico
+LM-P01225,LM001225,Académico Modelo 1225,Infantil,Marca G,565.79,670.67,SI,Audiolibro
+LM-P01226,LM001226,Digital Modelo 1226,No ficción,Marca K,1220.53,1967.34,NO,Físico
+LM-P01227,LM001227,Académico Modelo 1227,No ficción,Marca E,2332.77,3880.98,SI,Físico
+LM-P01228,LM001228,No ficción Modelo 1228,No ficción,Marca B,689.9,1098.25,SI,Audiolibro
+LM-P01229,LM001229,Ficción Modelo 1229,Académico,Marca F,2207.73,3355.15,SI,Físico
+LM-P01230,LM001230,No ficción Modelo 1230,No ficción,Marca L,1472.85,1951.78,SI,Físico
+LM-P01231,LM001231,Juegos Modelo 1231,Papelería,Marca N,2451.35,3053.66,SI,Físico
+LM-P01232,LM001232,Académico Modelo 1232,Ficción,Marca K,2343.83,3173.35,SI,Físico
+LM-P01233,LM001233,Juegos Modelo 1233,Infantil,Marca N,2403.67,3918.27,SI,Digital
+LM-P01234,LM001234,Infantil Modelo 1234,No ficción,Marca K,2121.04,3136.88,SI,Físico
+LM-P01235,LM001235,Infantil Modelo 1235,Infantil,Marca D,986.42,1263.75,SI,Digital
+LM-P01236,LM001236,Digital Modelo 1236,Infantil,Marca K,999.84,1665.52,SI,Físico
+LM-P01237,LM001237,Juegos Modelo 1237,Papelería,Marca E,1321.67,2090.74,SI,Físico
+LM-P01238,LM001238,No ficción Modelo 1238,Digital,Marca H,855.78,1077.89,SI,Físico
+LM-P01239,LM001239,No ficción Modelo 1239,Digital,Marca G,371.72,529.57,SI,Físico
+LM-P01240,LM001240,Digital Modelo 1240,Académico,Marca N,2282.38,2910.16,SI,Digital
+LM-P01241,LM001241,Ficción Modelo 1241,Juegos,Marca G,606.84,777.33,SI,Físico
+LM-P01242,LM001242,Ficción Modelo 1242,Infantil,Marca D,2083.3,2806.71,SI,Digital
+LM-P01243,LM001243,Digital Modelo 1243,No ficción,Marca M,2295.38,3072.84,SI,Físico
+LM-P01244,LM001244,Juegos Modelo 1244,Académico,Marca I,1619.49,2637.86,SI,Físico
+LM-P01245,LM001245,No ficción Modelo 1245,Infantil,Marca I,755.88,999.54,SI,Físico
+LM-P01246,LM001246,Juegos Modelo 1246,Papelería,Marca C,1112.09,1432.65,SI,Físico
+LM-P01247,LM001247,Ficción Modelo 1247,Digital,Marca C,98.71,169.57,SI,Físico
+LM-P01248,LM001248,No ficción Modelo 1248,Infantil,Marca K,2469.72,3479.16,SI,Físico
+LM-P01249,LM001249,No ficción Modelo 1249,Académico,Marca F,136.2,228.12,SI,Físico
+LM-P01250,LM001250,Ficción Modelo 1250,Juegos,Marca K,854.1,1180.71,SI,Digital
+LM-P01251,LM001251,Ficción Modelo 1251,Papelería,Marca B,2279.47,3697.87,SI,Físico
+LM-P01252,LM001252,Ficción Modelo 1252,Ficción,Marca C,1328.68,1796.18,SI,Físico
+LM-P01253,LM001253,Juegos Modelo 1253,No ficción,Marca A,404.52,498.82,SI,Físico
+LM-P01254,LM001254,Digital Modelo 1254,Infantil,Marca L,501.06,683.32,SI,Físico
+LM-P01255,LM001255,Infantil Modelo 1255,Digital,Marca H,1986.07,2679.21,SI,Físico
+LM-P01256,LM001256,Académico Modelo 1256,Infantil,Marca J,1777.24,2909.11,SI,Físico
+LM-P01257,LM001257,Infantil Modelo 1257,Ficción,Marca A,1606.16,2416.76,SI,Físico
+LM-P01258,LM001258,Papelería Modelo 1258,Académico,Marca A,1218.02,1607.86,SI,Físico
+LM-P01259,LM001259,Digital Modelo 1259,Juegos,Marca M,2033.6,2724.96,SI,Físico
+LM-P01260,LM001260,Digital Modelo 1260,Académico,Marca A,410.36,554.28,SI,Físico
+LM-P01261,LM001261,Infantil Modelo 1261,Ficción,Marca M,1217.92,2034.38,SI,Físico
+LM-P01262,LM001262,Juegos Modelo 1262,Juegos,Marca G,1901.77,2931.04,SI,Físico
+LM-P01263,LM001263,Ficción Modelo 1263,Digital,Marca H,2261.71,3659.39,SI,Físico
+LM-P01264,LM001264,Juegos Modelo 1264,Académico,Marca K,338.52,405.92,SI,Físico
+LM-P01265,LM001265,Papelería Modelo 1265,Juegos,Marca J,140.17,180.72,SI,Físico
+LM-P01266,LM001266,Infantil Modelo 1266,Ficción,Marca B,1838.4,2781.48,SI,Audiolibro
+LM-P01267,LM001267,Ficción Modelo 1267,Juegos,Marca L,1842.81,2738.73,SI,Físico
+LM-P01268,LM001268,Académico Modelo 1268,Juegos,Marca G,491.3,780.86,SI,Físico
+LM-P01269,LM001269,Ficción Modelo 1269,Digital,Marca M,868.39,1378.21,NO,Físico
+LM-P01270,LM001270,Académico Modelo 1270,Infantil,Marca A,495.18,658.83,SI,Físico
+LM-P01271,LM001271,Digital Modelo 1271,Digital,Marca A,1014.12,1313.09,SI,Físico
+LM-P01272,LM001272,Infantil Modelo 1272,Papelería,Marca C,198.11,265.69,NO,Físico
+LM-P01273,LM001273,Papelería Modelo 1273,Infantil,Marca I,245.99,428.24,SI,Físico
+LM-P01274,LM001274,Académico Modelo 1274,No ficción,Marca F,1242.56,1809.88,NO,Físico
+LM-P01275,LM001275,Ficción Modelo 1275,Infantil,Marca B,1950.5,3344.09,SI,Digital
+LM-P01276,LM001276,Ficción Modelo 1276,Infantil,Marca C,982.8,1350.4,SI,Físico
+LM-P01277,LM001277,Académico Modelo 1277,Digital,Marca G,83.77,132.71,SI,Físico
+LM-P01278,LM001278,No ficción Modelo 1278,Digital,Marca F,1358.18,1887.83,SI,Digital
+LM-P01279,LM001279,Papelería Modelo 1279,Digital,Marca J,997.8,1547.46,SI,Físico
+LM-P01280,LM001280,Digital Modelo 1280,Digital,Marca C,1881.08,2631.24,SI,Físico
+LM-P01281,LM001281,No ficción Modelo 1281,Ficción,Marca D,63.82,80.91,SI,Audiolibro
+LM-P01282,LM001282,Infantil Modelo 1282,Ficción,Marca G,261.32,335.65,SI,Físico
+LM-P01283,LM001283,Ficción Modelo 1283,Infantil,Marca G,2476.79,3005.14,SI,Físico
+LM-P01284,LM001284,Papelería Modelo 1284,Juegos,Marca L,1040.1,1227.71,SI,Físico
+LM-P01285,LM001285,Infantil Modelo 1285,Papelería,Marca E,2165.13,2872.21,SI,Físico
+LM-P01286,LM001286,Infantil Modelo 1286,Ficción,Marca K,2462.69,4217.45,SI,Audiolibro
+LM-P01287,LM001287,Digital Modelo 1287,Infantil,Marca I,2299.01,2997.7,SI,Físico
+LM-P01288,LM001288,Ficción Modelo 1288,Digital,Marca K,1391.67,2080.91,SI,Físico
+LM-P01289,LM001289,Juegos Modelo 1289,Papelería,Marca J,2434.07,3242.42,SI,Digital
+LM-P01290,LM001290,Académico Modelo 1290,Juegos,Marca J,1188.5,2006.82,SI,Físico
+LM-P01291,LM001291,Papelería Modelo 1291,Infantil,Marca J,1042.55,1512.56,SI,Físico
+LM-P01292,LM001292,Ficción Modelo 1292,Académico,Marca B,1747.86,2415.01,SI,Físico
+LM-P01293,LM001293,No ficción Modelo 1293,Juegos,Marca M,1455.6,1953.48,SI,Digital
+LM-P01294,LM001294,Papelería Modelo 1294,Digital,Marca K,2394.53,3195.12,SI,Digital
+LM-P01295,LM001295,Juegos Modelo 1295,Ficción,Marca N,1515.17,2348.84,SI,Físico
+LM-P01296,LM001296,Digital Modelo 1296,Papelería,Marca J,1894.25,3168.17,SI,Físico
+LM-P01297,LM001297,Juegos Modelo 1297,Ficción,Marca A,172.42,206.6,SI,Físico
+LM-P01298,LM001298,Juegos Modelo 1298,No ficción,Marca M,2055.03,2715.23,SI,Físico
+LM-P01299,LM001299,Académico Modelo 1299,Infantil,Marca G,1385.31,1742.25,SI,Digital
+LM-P01300,LM001300,Ficción Modelo 1300,Papelería,Marca L,1170.13,1849.32,SI,Físico
+LM-P01301,LM001301,Ficción Modelo 1301,Juegos,Marca K,1777.55,2805.42,SI,Físico
+LM-P01302,LM001302,Académico Modelo 1302,Digital,Marca N,1855.77,2394.85,SI,Digital
+LM-P01303,LM001303,No ficción Modelo 1303,Juegos,Marca F,1605.1,2565.11,SI,Físico
+LM-P01304,LM001304,Digital Modelo 1304,Ficción,Marca G,1892.04,2726.47,SI,Digital
+LM-P01305,LM001305,Digital Modelo 1305,Ficción,Marca K,1807.43,2161.66,SI,Físico
+LM-P01306,LM001306,Juegos Modelo 1306,Infantil,Marca I,1563.73,1941.59,SI,Físico
+LM-P01307,LM001307,Infantil Modelo 1307,Juegos,Marca L,2072.97,2671.95,SI,Físico
+LM-P01308,LM001308,Juegos Modelo 1308,No ficción,Marca N,2306.17,2851.54,SI,Físico
+LM-P01309,LM001309,Académico Modelo 1309,Académico,Marca M,1293.98,2258.33,SI,Físico
+LM-P01310,LM001310,Ficción Modelo 1310,Papelería,Marca B,1695.94,2672.0,SI,Físico
+LM-P01311,LM001311,Digital Modelo 1311,Digital,Marca I,1515.36,2540.5,SI,Físico
+LM-P01312,LM001312,Digital Modelo 1312,Juegos,Marca A,2432.56,3679.09,SI,Físico
+LM-P01313,LM001313,Digital Modelo 1313,Juegos,Marca G,2230.6,3487.34,SI,Físico
+LM-P01314,LM001314,Ficción Modelo 1314,Infantil,Marca L,2442.36,3019.45,SI,Físico
+LM-P01315,LM001315,Académico Modelo 1315,No ficción,Marca K,484.31,755.08,SI,Audiolibro
+LM-P01316,LM001316,Digital Modelo 1316,Digital,Marca E,943.77,1513.24,SI,Físico
+LM-P01317,LM001317,Papelería Modelo 1317,Ficción,Marca G,1562.76,1903.08,NO,Digital
+LM-P01318,LM001318,Papelería Modelo 1318,Académico,Marca B,747.81,1013.25,SI,Audiolibro
+LM-P01319,LM001319,No ficción Modelo 1319,Papelería,Marca I,309.51,395.81,SI,Físico
+LM-P01320,LM001320,Digital Modelo 1320,Digital,Marca H,899.46,1342.46,SI,Físico
+LM-P01321,LM001321,Papelería Modelo 1321,Juegos,Marca K,1735.14,2323.88,SI,Físico
+LM-P01322,LM001322,Infantil Modelo 1322,Infantil,Marca H,519.9,704.45,SI,Digital
+LM-P01323,LM001323,No ficción Modelo 1323,Académico,Marca B,1700.01,2588.92,SI,Digital
+LM-P01324,LM001324,No ficción Modelo 1324,Infantil,Marca K,2306.78,3492.51,SI,Físico
+LM-P01325,LM001325,Digital Modelo 1325,Papelería,Marca D,461.45,791.98,SI,Físico
+LM-P01326,LM001326,Juegos Modelo 1326,Papelería,Marca L,896.98,1502.73,SI,Físico
+LM-P01327,LM001327,Infantil Modelo 1327,Infantil,Marca A,379.22,595.73,SI,Físico
+LM-P01328,LM001328,Ficción Modelo 1328,Digital,Marca A,2320.71,4049.58,SI,Físico
+LM-P01329,LM001329,Ficción Modelo 1329,No ficción,Marca J,980.21,1620.84,NO,Físico
+LM-P01330,LM001330,Ficción Modelo 1330,Académico,Marca D,946.36,1210.56,SI,Físico
+LM-P01331,LM001331,Académico Modelo 1331,Ficción,Marca C,930.32,1153.55,SI,Físico
+LM-P01332,LM001332,Juegos Modelo 1332,Ficción,Marca H,1717.46,2841.26,SI,Físico
+LM-P01333,LM001333,Académico Modelo 1333,No ficción,Marca K,453.96,777.22,SI,Físico
+LM-P01334,LM001334,Digital Modelo 1334,Papelería,Marca B,1370.29,2091.63,SI,Digital
+LM-P01335,LM001335,No ficción Modelo 1335,Infantil,Marca C,1414.93,1883.55,SI,Físico
+LM-P01336,LM001336,Académico Modelo 1336,Infantil,Marca D,2156.64,3168.5,SI,Físico
+LM-P01337,LM001337,No ficción Modelo 1337,Juegos,Marca C,2357.16,3207.83,SI,Físico
+LM-P01338,LM001338,Juegos Modelo 1338,Infantil,Marca I,525.96,828.3,SI,Físico
+LM-P01339,LM001339,Juegos Modelo 1339,Papelería,Marca M,1559.73,2626.28,SI,Audiolibro
+LM-P01340,LM001340,Juegos Modelo 1340,Papelería,Marca A,2005.36,2927.51,SI,Físico
+LM-P01341,LM001341,Infantil Modelo 1341,Académico,Marca K,1029.39,1488.32,NO,Físico
+LM-P01342,LM001342,Infantil Modelo 1342,Académico,Marca N,1174.0,1453.94,SI,Digital
+LM-P01343,LM001343,Juegos Modelo 1343,Académico,Marca D,2039.08,3534.89,SI,Físico
+LM-P01344,LM001344,Papelería Modelo 1344,No ficción,Marca F,2400.47,2886.01,SI,Físico
+LM-P01345,LM001345,Digital Modelo 1345,Académico,Marca H,147.5,231.54,SI,Digital
+LM-P01346,LM001346,Papelería Modelo 1346,Juegos,Marca D,2005.72,3074.59,SI,Físico
+LM-P01347,LM001347,Juegos Modelo 1347,No ficción,Marca A,496.29,682.7,SI,Físico
+LM-P01348,LM001348,Infantil Modelo 1348,Infantil,Marca G,1214.44,1725.92,SI,Físico
+LM-P01349,LM001349,Digital Modelo 1349,Juegos,Marca N,2235.75,3175.94,SI,Digital
+LM-P01350,LM001350,Juegos Modelo 1350,Juegos,Marca D,231.41,379.78,SI,Físico
+LM-P01351,LM001351,Académico Modelo 1351,Ficción,Marca H,271.61,446.8,SI,Audiolibro
+LM-P01352,LM001352,No ficción Modelo 1352,No ficción,Marca K,1782.99,2640.89,SI,Físico
+LM-P01353,LM001353,No ficción Modelo 1353,Infantil,Marca L,1051.25,1571.62,SI,Físico
+LM-P01354,LM001354,Infantil Modelo 1354,Ficción,Marca L,510.9,748.2,SI,Físico
+LM-P01355,LM001355,Ficción Modelo 1355,No ficción,Marca B,716.51,1075.56,SI,Físico
+LM-P01356,LM001356,Infantil Modelo 1356,Juegos,Marca M,625.99,909.58,SI,Digital
+LM-P01357,LM001357,Papelería Modelo 1357,Juegos,Marca M,2346.43,3114.21,SI,Físico
+LM-P01358,LM001358,Ficción Modelo 1358,Infantil,Marca B,1667.02,2785.71,SI,Físico
+LM-P01359,LM001359,Infantil Modelo 1359,Académico,Marca D,932.89,1622.45,SI,Físico
+LM-P01360,LM001360,Papelería Modelo 1360,No ficción,Marca C,677.82,964.79,SI,Físico
+LM-P01361,LM001361,Juegos Modelo 1361,Juegos,Marca I,1036.12,1450.92,SI,Físico
+LM-P01362,LM001362,Académico Modelo 1362,Papelería,Marca F,1971.96,2795.41,SI,Digital
+LM-P01363,LM001363,No ficción Modelo 1363,Académico,Marca C,1578.66,2259.14,SI,Digital
+LM-P01364,LM001364,Papelería Modelo 1364,Digital,Marca N,1155.45,1707.71,SI,Físico
+LM-P01365,LM001365,No ficción Modelo 1365,Infantil,Marca L,446.08,644.16,SI,Físico
+LM-P01366,LM001366,Ficción Modelo 1366,Ficción,Marca H,1076.01,1547.61,SI,Físico
+LM-P01367,LM001367,Académico Modelo 1367,Infantil,Marca G,1122.04,1676.61,SI,Físico
+LM-P01368,LM001368,Juegos Modelo 1368,Papelería,Marca B,491.56,663.01,SI,Físico
+LM-P01369,LM001369,No ficción Modelo 1369,Infantil,Marca D,124.74,164.52,SI,Físico
+LM-P01370,LM001370,Papelería Modelo 1370,No ficción,Marca F,852.72,1460.66,SI,Físico
+LM-P01371,LM001371,Papelería Modelo 1371,Juegos,Marca J,1598.31,2034.77,SI,Físico
+LM-P01372,LM001372,No ficción Modelo 1372,Juegos,Marca C,1492.89,2583.6,SI,Audiolibro
+LM-P01373,LM001373,Juegos Modelo 1373,No ficción,Marca N,945.83,1267.54,SI,Físico
+LM-P01374,LM001374,No ficción Modelo 1374,No ficción,Marca B,163.05,235.17,SI,Físico
+LM-P01375,LM001375,Infantil Modelo 1375,Papelería,Marca M,169.97,267.57,SI,Físico
+LM-P01376,LM001376,Académico Modelo 1376,Digital,Marca H,111.64,176.35,NO,Físico
+LM-P01377,LM001377,Juegos Modelo 1377,Infantil,Marca E,1884.4,2736.83,NO,Físico
+LM-P01378,LM001378,No ficción Modelo 1378,No ficción,Marca A,2459.56,3449.14,SI,Físico
+LM-P01379,LM001379,Digital Modelo 1379,Juegos,Marca N,246.51,392.54,SI,Físico
+LM-P01380,LM001380,Digital Modelo 1380,Juegos,Marca M,858.84,1266.93,SI,Físico
+LM-P01381,LM001381,Papelería Modelo 1381,Juegos,Marca D,292.79,465.15,SI,Físico
+LM-P01382,LM001382,Académico Modelo 1382,Académico,Marca M,2179.41,2822.57,SI,Físico
+LM-P01383,LM001383,Juegos Modelo 1383,Digital,Marca F,2302.37,3914.91,SI,Físico
+LM-P01384,LM001384,Digital Modelo 1384,Infantil,Marca A,2299.99,2743.54,SI,Físico
+LM-P01385,LM001385,Ficción Modelo 1385,Juegos,Marca B,799.67,1255.09,SI,Digital
+LM-P01386,LM001386,Infantil Modelo 1386,Académico,Marca L,719.9,1080.45,SI,Físico
+LM-P01387,LM001387,Académico Modelo 1387,Papelería,Marca F,1126.81,1959.12,SI,Físico
+LM-P01388,LM001388,Digital Modelo 1388,Infantil,Marca D,521.05,841.65,SI,Físico
+LM-P01389,LM001389,Digital Modelo 1389,Juegos,Marca M,1242.88,2092.56,SI,Físico
+LM-P01390,LM001390,Juegos Modelo 1390,No ficción,Marca L,264.28,363.17,SI,Físico
+LM-P01391,LM001391,Juegos Modelo 1391,Juegos,Marca A,2127.32,2774.32,SI,Físico
+LM-P01392,LM001392,Papelería Modelo 1392,Académico,Marca N,2310.08,3400.46,SI,Físico
+LM-P01393,LM001393,Infantil Modelo 1393,Académico,Marca E,803.7,1323.37,SI,Físico
+LM-P01394,LM001394,No ficción Modelo 1394,No ficción,Marca F,2253.88,3264.81,NO,Físico
+LM-P01395,LM001395,Papelería Modelo 1395,Académico,Marca N,1877.92,2464.28,SI,Físico
+LM-P01396,LM001396,Digital Modelo 1396,Infantil,Marca I,1715.29,2674.78,SI,Físico
+LM-P01397,LM001397,Papelería Modelo 1397,Infantil,Marca D,917.77,1445.72,SI,Físico
+LM-P01398,LM001398,Papelería Modelo 1398,Papelería,Marca B,2495.85,4041.08,SI,Físico
+LM-P01399,LM001399,Académico Modelo 1399,Infantil,Marca B,1458.54,1805.74,NO,Físico
+LM-P01400,LM001400,Papelería Modelo 1400,No ficción,Marca J,1409.78,2169.26,SI,Físico
+LM-P01401,LM001401,Juegos Modelo 1401,Juegos,Marca M,2499.34,4190.52,SI,Físico
+LM-P01402,LM001402,Digital Modelo 1402,Papelería,Marca N,1777.51,2863.2,SI,Digital
+LM-P01403,LM001403,No ficción Modelo 1403,Ficción,Marca N,1418.22,2160.49,SI,Físico
+LM-P01404,LM001404,Ficción Modelo 1404,Juegos,Marca E,2117.25,3463.75,SI,Físico
+LM-P01405,LM001405,Papelería Modelo 1405,Juegos,Marca A,812.64,1268.62,SI,Físico
+LM-P01406,LM001406,No ficción Modelo 1406,Juegos,Marca E,1068.95,1537.81,SI,Digital
+LM-P01407,LM001407,Digital Modelo 1407,Juegos,Marca N,466.19,761.37,SI,Físico
+LM-P01408,LM001408,No ficción Modelo 1408,Infantil,Marca N,721.42,880.87,SI,Físico
+LM-P01409,LM001409,Infantil Modelo 1409,Papelería,Marca E,1542.85,2613.04,SI,Físico
+LM-P01410,LM001410,No ficción Modelo 1410,Digital,Marca C,413.02,710.25,SI,Físico
+LM-P01411,LM001411,Infantil Modelo 1411,Digital,Marca N,2282.07,2788.12,SI,Físico
+LM-P01412,LM001412,Papelería Modelo 1412,Infantil,Marca D,1603.11,2680.54,SI,Físico
+LM-P01413,LM001413,Infantil Modelo 1413,No ficción,Marca C,1324.47,1571.36,SI,Físico
+LM-P01414,LM001414,Digital Modelo 1414,Digital,Marca M,54.37,95.01,SI,Audiolibro
+LM-P01415,LM001415,Papelería Modelo 1415,Infantil,Marca B,270.63,436.36,SI,Físico
+LM-P01416,LM001416,Papelería Modelo 1416,Ficción,Marca I,966.51,1604.59,SI,Físico
+LM-P01417,LM001417,No ficción Modelo 1417,No ficción,Marca E,595.3,945.41,SI,Físico
+LM-P01418,LM001418,Papelería Modelo 1418,Papelería,Marca C,726.2,866.77,SI,Físico
+LM-P01419,LM001419,Juegos Modelo 1419,Ficción,Marca A,779.56,1042.08,SI,Físico
+LM-P01420,LM001420,Digital Modelo 1420,Ficción,Marca N,1815.65,3094.57,SI,Físico

@@ -51,7 +51,7 @@ CREATE TABLE dim_fecha (
 ========================= */
 CREATE TABLE dim_cliente (
     cliente_key        BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    cliente_id         BIGINT,
+    cliente_id         VARCHAR(20)
     nombre             VARCHAR(200),
     tipo_cliente       VARCHAR(50),
     segmento_cliente   VARCHAR(50),
