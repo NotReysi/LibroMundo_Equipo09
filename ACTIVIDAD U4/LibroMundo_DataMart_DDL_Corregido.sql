@@ -47,6 +47,28 @@ CREATE TABLE IF NOT EXISTS etl_log (
 );
 
 /* =========================
+   TABLAS DE AUDITORÍA Y CALIDAD (ETL)
+========================= */
+CREATE TABLE IF NOT EXISTS etl_observaciones (
+    obs_id        BIGINT AUTO_INCREMENT PRIMARY KEY,
+    fuente        VARCHAR(50)  NOT NULL,
+    metrica       VARCHAR(100) NOT NULL,
+    valor         BIGINT       NULL,
+    registrada_en DATETIME     NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS etl_rechazos (
+    rechazo_id     BIGINT AUTO_INCREMENT PRIMARY KEY,
+    tabla_origen   VARCHAR(50)  NOT NULL,
+    raw_row_id     INT UNSIGNED NOT NULL,
+    llave_negocio  VARCHAR(50)  NULL,
+    motivo         VARCHAR(50)  NOT NULL,
+    valor_original VARCHAR(500) NULL,
+    rechazado_en   DATETIME     NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE KEY uq_rechazo (tabla_origen, raw_row_id)
+);
+
+/* =========================
    DIMENSIÓN FECHA
 ========================= */
 CREATE TABLE dim_fecha (
