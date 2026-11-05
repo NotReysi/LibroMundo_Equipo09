@@ -28,6 +28,7 @@ Repositorio del equipo para la materia de bases de datos, caso LibroMundo (retai
 │   ├── 06_stored_procedure/               Procedimiento almacenado del reporte
 │   └── 07_conclusion/                     Conclusión y hallazgos
 └── ACTIVIDAD U4/                          Actividad 3: Laboratorio 4 (ETL de LibroMundo)
+    ├── README.md                          Cómo ejecutar esta actividad (guía rápida)
     ├── LibroMundo/                        Datos entregados por el profesor (RAW, diccionario, SQL base)
     ├── LibroMundo_DataMart_DDL_Corregido.sql
     ├── etl_*.sql                          Scripts ETL por fuente
@@ -122,7 +123,8 @@ La demostración de agrupación estricta usa el Error 1055 de MySQL bajo `ONLY_F
     - `ALUMNO/DOCS/README_ALUMNO.md` y `diccionario_fuentes_raw.csv`: enunciado y diccionario de los CSV.
     - `ALUMNO/SQL_BASE/00_crear_bd_y_log.sql`: crea `lm_bi` y `etl_log`.
     - `ALUMNO/RAW/`: CSV fuente en `COMPRAS`, `CRM`, `ERP`, `ESPECIFICO`, `INVENTARIO`, `MARKETING`, `OPERACION` y `POS`.
-  - `LibroMundo_DataMart_DDL_Corregido.sql`: DDL del data mart en `lm_bi` (incluye `etl_log`; llaves de negocio ajustadas a `VARCHAR`).
+  - `LibroMundo_DataMart_DDL_Corregido.sql`: DDL del data mart en `lm_bi`; incluye `etl_log`, `etl_observaciones` y `etl_rechazos`, y las llaves de negocio ajustadas a `VARCHAR`.
+  - `README.md`: guía rápida de ejecución y verificación de esta actividad.
   - `etl_sucursales.sql`, `etl_clientes.sql`, `etl_productos_y_autores.sql`, `etl_promociones.sql`, `etl_ventas_y_detalle.sql`, `etl_devoluciones.sql`: ETL por fuente.
   - `consulta_de_indicadores_finales.sql`: ventas netas y pedidos por región, año y mes.
 - **Fuente de datos compartida:** los datos del profesor están en `ACTIVIDAD U4/LibroMundo/`. Los scripts de la Actividad 2 no leen esos CSV (generan datos simulados en `03_carga_datos.sql`).
@@ -140,12 +142,11 @@ Orden deducido de las dependencias entre scripts (las dimensiones deben existir 
 7. `ACTIVIDAD U4/etl_devoluciones.sql`: `fact_devoluciones`; hereda llaves de `fact_ventas`.
 8. `ACTIVIDAD U4/consulta_de_indicadores_finales.sql`: indicadores finales.
 
-<!-- TODO: confirmar el orden de los pasos 2 a 5, ya que ningún script lo impone entre sí; solo los pasos 6 y 7 dependen de los anteriores. -->
-<!-- TODO: confirmar dónde se crean las tablas `etl_observaciones` y `etl_rechazos`, usadas por los scripts ETL; no se encontraron en `LibroMundo_DataMart_DDL_Corregido.sql` ni en `00_crear_bd_y_log.sql`. -->
+El orden de los pasos 2 a 5 es el recomendado (ningún script lo impone entre sí); solo los pasos 6 y 7 dependen de los anteriores. Las tablas `etl_observaciones` y `etl_rechazos` las crea `LibroMundo_DataMart_DDL_Corregido.sql`, por lo que deben existir antes de correr cualquier `etl_*.sql`.
 
 ## Requisitos
 
 - **MySQL 8.0.16 o superior**, para que las restricciones `CHECK` se apliquen. Se usa MySQL Workbench como cliente.
-- **Actividad 3: `local_infile`.** Los scripts `etl_*.sql` cargan los CSV con `LOAD DATA LOCAL INFILE`, por lo que `local_infile` debe estar habilitado en el servidor (`SET GLOBAL local_infile = 1;`) y en la conexión del cliente.
-- **Actividad 3: rutas de los CSV.** Los scripts contienen la ruta de ejemplo `C:/RUTA/AL/REPO/LibroMundo/ALUMNO/RAW/...`. Hay que reemplazar `C:/RUTA/AL/REPO` por la ruta local de `ACTIVIDAD U4` antes de ejecutarlos.
+- **Actividad 3: `local_infile`.** Los scripts `etl_*.sql` cargan los CSV con `LOAD DATA LOCAL INFILE`, por lo que `local_infile` debe estar habilitado en el servidor (`SET GLOBAL local_infile = 1;`) y en la conexión del cliente. En Workbench: *Edit Connection* → pestaña *Advanced* → campo *Others* → `OPT_LOCAL_INFILE=1`, guardar y reconectar. El error 3948 indica que falta el lado servidor; el 2068, el lado cliente.
+- **Actividad 3: rutas de los CSV.** Los scripts contienen la ruta de ejemplo `C:/RUTA/AL/REPO/LibroMundo/ALUMNO/RAW/...`. Hay que reemplazar `C:/RUTA/AL/REPO` por la ruta local de `ACTIVIDAD U4` antes de ejecutarlos (usar `/`, no `\`).
 - **Actividad 2:** no requiere `local_infile`; los scripts de `ACTIVIDAD U3/` no usan `LOAD DATA`.
