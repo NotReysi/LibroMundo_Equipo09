@@ -1,0 +1,69 @@
+﻿archivo,campo,tipo_inferido,nulos_observados,ejemplo
+ERP/productos.csv,producto_id,object,0,LM-P00001
+ERP/productos.csv,sku,object,0,LM000001
+ERP/productos.csv,producto,object,0,Académico Modelo 0001
+ERP/productos.csv,categoria,object,0,Infantil
+ERP/productos.csv,marca,object,0,Marca A
+ERP/productos.csv,costo,float64,0,1354.92
+ERP/productos.csv,precio_lista,float64,0,1952.53
+ERP/productos.csv,activo,object,0,SI
+ERP/productos.csv,formato,object,0,Físico
+ERP/proveedores.csv,proveedor_id,object,0,LM-PR0001
+ERP/proveedores.csv,proveedor,object,0,Proveedor LM 001
+ERP/proveedores.csv,ciudad,object,0,San Nicolás
+ERP/proveedores.csv,lead_time_dias,int64,0,30
+ERP/proveedores.csv,rating,float64,0,3.1
+CRM/clientes.csv,cliente_id,object,0,LM-C000001
+CRM/clientes.csv,nombre,object,0,Fernanda Ramírez Hernández
+CRM/clientes.csv,sexo,object,0,F
+CRM/clientes.csv,fecha_alta,object,0,2022-06-16
+CRM/clientes.csv,ciudad,object,0,Tampico
+CRM/clientes.csv,segmento,object,0,Nuevo
+CRM/clientes.csv,email,object,0,cliente1@ejemplo.com
+OPERACION/sucursales.csv,sucursal_id,object,0,LM-S001
+OPERACION/sucursales.csv,sucursal,object,0,Sucursal Monterrey 1
+OPERACION/sucursales.csv,ciudad,object,0,Monterrey
+OPERACION/sucursales.csv,estado,object,0,Nuevo León
+OPERACION/sucursales.csv,m2,int64,0,637
+OPERACION/sucursales.csv,fecha_apertura,object,0,2024-01-25
+MARKETING/promociones.csv,promocion_id,object,0,LM-PROM0001
+MARKETING/promociones.csv,nombre,object,0,Campaña 001
+MARKETING/promociones.csv,fecha_inicio,object,0,2024-10-05
+MARKETING/promociones.csv,descuento_pct,int64,0,20
+MARKETING/promociones.csv,fecha_fin,object,0,2024-10-19
+POS/ventas.csv,venta_id,object,0,LM-V00000001
+POS/ventas.csv,fecha,object,0,2025-03-22
+POS/ventas.csv,hora,object,0,19:49:00
+POS/ventas.csv,sucursal_id,object,0,LM-S012
+POS/ventas.csv,cliente_id,object,0,LM-C002805
+POS/ventas.csv,canal,object,0,Tienda
+POS/ventas.csv,metodo_pago,object,0,Tarjeta
+POS/detalle_ventas.csv,venta_id,object,0,LM-V00000001
+POS/detalle_ventas.csv,linea,int64,0,1
+POS/detalle_ventas.csv,producto_id,object,0,LM-P00799
+POS/detalle_ventas.csv,cantidad,int64,0,3
+POS/detalle_ventas.csv,precio_unitario,float64,0,1226.49
+POS/detalle_ventas.csv,descuento_pct,int64,0,15
+POS/detalle_ventas.csv,importe,float64,0,3679.47
+POS/devoluciones.csv,devolucion_id,object,0,LM-D0000001
+POS/devoluciones.csv,venta_id,object,0,LM-V00057750
+POS/devoluciones.csv,producto_id,object,0,LM-P01296
+POS/devoluciones.csv,cantidad_devuelta,int64,0,1
+POS/devoluciones.csv,importe_devuelto,float64,0,3009.76
+POS/devoluciones.csv,motivo,object,0,No era lo esperado
+INVENTARIO/existencias.csv,sucursal_id,object,0,LM-S001
+INVENTARIO/existencias.csv,producto_id,object,0,LM-P00001
+INVENTARIO/existencias.csv,existencia,int64,0,74
+INVENTARIO/existencias.csv,punto_reorden,int64,0,34
+COMPRAS/ordenes_compra.csv,orden_id,object,0,LM-OC0000001
+COMPRAS/ordenes_compra.csv,fecha_orden,object,0,2024-11-09
+COMPRAS/ordenes_compra.csv,proveedor_id,object,0,LM-PR0118
+COMPRAS/ordenes_compra.csv,sucursal_id,object,0,LM-S012
+COMPRAS/ordenes_compra.csv,producto_id,object,0,LM-P00415
+COMPRAS/ordenes_compra.csv,cantidad,int64,0,241
+COMPRAS/ordenes_compra.csv,estatus,object,0,Recibida
+ESPECIFICO/catalogo_editorial.csv,producto_id,object,0,LM-P00001
+ESPECIFICO/catalogo_editorial.csv,autor,object,0,Diego Rivera Torres
+ESPECIFICO/catalogo_editorial.csv,editorial,object,0,Alfa
+ESPECIFICO/catalogo_editorial.csv,anio_edicion,int64,0,2011
+ESPECIFICO/catalogo_editorial.csv,isbn,object,0,9785622283131

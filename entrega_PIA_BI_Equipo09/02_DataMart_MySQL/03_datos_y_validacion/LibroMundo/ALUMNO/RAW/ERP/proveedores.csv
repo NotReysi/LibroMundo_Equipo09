@@ -1,0 +1,171 @@
+﻿proveedor_id,proveedor,ciudad,lead_time_dias,rating
+LM-PR0001,Proveedor LM 001,San Nicolás,30,3.1
+LM-PR0002,Proveedor LM 002,Escobedo,11,4.9
+LM-PR0003,Proveedor LM 003,Tampico,13,4.2
+LM-PR0004,Proveedor LM 004,Guadalupe,30,3.5
+LM-PR0005,Proveedor LM 005,Monterrey,7,3.0
+LM-PR0006,Proveedor LM 006,Tampico,15,3.7
+LM-PR0007,Proveedor LM 007,Guadalupe,16,4.6
+LM-PR0008,Proveedor LM 008,Apodaca,5,3.1
+LM-PR0009,Proveedor LM 009,Escobedo,23,4.7
+LM-PR0010,Proveedor LM 010,Guadalupe,19,3.0
+LM-PR0011,Proveedor LM 011,Apodaca,7,4.6
+LM-PR0012,Proveedor LM 012,Reynosa,15,4.7
+LM-PR0013,Proveedor LM 013,San Nicolás,24,3.4
+LM-PR0014,Proveedor LM 014,Reynosa,24,3.0
+LM-PR0015,Proveedor LM 015,Santa Catarina,6,3.8
+LM-PR0016,Proveedor LM 016,San Pedro,6,4.3
+LM-PR0017,Proveedor LM 017,Tampico,5,2.9
+LM-PR0018,Proveedor LM 018,Reynosa,29,3.9
+LM-PR0019,Proveedor LM 019,Reynosa,18,4.7
+LM-PR0020,Proveedor LM 020,Santa Catarina,13,3.4
+LM-PR0021,Proveedor LM 021,Reynosa,6,3.6
+LM-PR0022,Proveedor LM 022,San Pedro,21,4.4
+LM-PR0023,Proveedor LM 023,Tampico,18,4.3
+LM-PR0024,Proveedor LM 024,Tampico,2,3.4
+LM-PR0025,Proveedor LM 025,Santa Catarina,17,4.1
+LM-PR0026,Proveedor LM 026,Guadalupe,6,4.3
+LM-PR0027,Proveedor LM 027,Santa Catarina,22,3.8
+LM-PR0028,Proveedor LM 028,Saltillo,12,3.0
+LM-PR0029,Proveedor LM 029,Tampico,7,3.1
+LM-PR0030,Proveedor LM 030,San Pedro,20,3.5
+LM-PR0031,Proveedor LM 031,San Nicolás,17,3.3
+LM-PR0032,Proveedor LM 032,Saltillo,5,3.7
+LM-PR0033,Proveedor LM 033,Guadalupe,30,3.1
+LM-PR0034,Proveedor LM 034,Tampico,26,4.9
+LM-PR0035,Proveedor LM 035,Tampico,21,3.3
+LM-PR0036,Proveedor LM 036,San Nicolás,13,3.9
+LM-PR0037,Proveedor LM 037,San Pedro,6,2.9
+LM-PR0038,Proveedor LM 038,Saltillo,19,3.4
+LM-PR0039,Proveedor LM 039,San Nicolás,10,3.8
+LM-PR0040,Proveedor LM 040,Monterrey,16,2.9
+LM-PR0041,Proveedor LM 041,San Nicolás,15,4.4
+LM-PR0042,Proveedor LM 042,Santa Catarina,10,4.7
+LM-PR0043,Proveedor LM 043,Guadalupe,13,4.1
+LM-PR0044,Proveedor LM 044,Apodaca,15,3.7
+LM-PR0045,Proveedor LM 045,Tampico,3,4.6
+LM-PR0046,Proveedor LM 046,Reynosa,10,4.2
+LM-PR0047,Proveedor LM 047,Saltillo,24,4.7
+LM-PR0048,Proveedor LM 048,Reynosa,23,4.8
+LM-PR0049,Proveedor LM 049,Saltillo,30,3.3
+LM-PR0050,Proveedor LM 050,Tampico,23,4.1
+LM-PR0051,Proveedor LM 051,San Nicolás,6,4.8
+LM-PR0052,Proveedor LM 052,Saltillo,22,4.4
+LM-PR0053,Proveedor LM 053,Santa Catarina,20,3.2
+LM-PR0054,Proveedor LM 054,Escobedo,3,3.4
+LM-PR0055,Proveedor LM 055,Santa Catarina,15,4.9
+LM-PR0056,Proveedor LM 056,Monterrey,20,4.3
+LM-PR0057,Proveedor LM 057,San Nicolás,8,3.4
+LM-PR0058,Proveedor LM 058,San Nicolás,6,3.5
+LM-PR0059,Proveedor LM 059,Escobedo,13,3.6
+LM-PR0060,Proveedor LM 060,Apodaca,9,3.3
+LM-PR0061,Proveedor LM 061,Tampico,13,4.0
+LM-PR0062,Proveedor LM 062,Monterrey,27,3.6
+LM-PR0063,Proveedor LM 063,San Nicolás,16,4.5
+LM-PR0064,Proveedor LM 064,Guadalupe,7,4.3
+LM-PR0065,Proveedor LM 065,Reynosa,5,3.0
+LM-PR0066,Proveedor LM 066,San Pedro,23,4.6
+LM-PR0067,Proveedor LM 067,Escobedo,24,2.8
+LM-PR0068,Proveedor LM 068,Santa Catarina,25,3.6
+LM-PR0069,Proveedor LM 069,Saltillo,16,4.4
+LM-PR0070,Proveedor LM 070,Guadalupe,21,3.1
+LM-PR0071,Proveedor LM 071,Apodaca,12,4.1
+LM-PR0072,Proveedor LM 072,Monterrey,12,3.4
+LM-PR0073,Proveedor LM 073,San Pedro,6,3.7
+LM-PR0074,Proveedor LM 074,Monterrey,22,3.7
+LM-PR0075,Proveedor LM 075,Santa Catarina,4,3.4
+LM-PR0076,Proveedor LM 076,Apodaca,14,3.3
+LM-PR0077,Proveedor LM 077,Santa Catarina,11,3.8
+LM-PR0078,Proveedor LM 078,Monterrey,27,3.1
+LM-PR0079,Proveedor LM 079,Escobedo,4,4.1
+LM-PR0080,Proveedor LM 080,Saltillo,26,3.8
+LM-PR0081,Proveedor LM 081,Saltillo,26,4.7
+LM-PR0082,Proveedor LM 082,Escobedo,18,4.9
+LM-PR0083,Proveedor LM 083,Reynosa,16,4.6
+LM-PR0084,Proveedor LM 084,Monterrey,25,3.6
+LM-PR0085,Proveedor LM 085,Santa Catarina,14,3.3
+LM-PR0086,Proveedor LM 086,Saltillo,12,4.3
+LM-PR0087,Proveedor LM 087,San Pedro,21,3.8
+LM-PR0088,Proveedor LM 088,Monterrey,28,3.7
+LM-PR0089,Proveedor LM 089,Guadalupe,30,3.0
+LM-PR0090,Proveedor LM 090,Monterrey,14,4.4
+LM-PR0091,Proveedor LM 091,Reynosa,8,4.1
+LM-PR0092,Proveedor LM 092,San Nicolás,11,3.7
+LM-PR0093,Proveedor LM 093,Saltillo,20,4.3
+LM-PR0094,Proveedor LM 094,Guadalupe,6,4.6
+LM-PR0095,Proveedor LM 095,Reynosa,7,4.8
+LM-PR0096,Proveedor LM 096,Monterrey,27,4.4
+LM-PR0097,Proveedor LM 097,Apodaca,8,3.1
+LM-PR0098,Proveedor LM 098,Apodaca,28,5.0
+LM-PR0099,Proveedor LM 099,San Nicolás,4,3.4
+LM-PR0100,Proveedor LM 100,Monterrey,20,3.1
+LM-PR0101,Proveedor LM 101,Saltillo,23,4.6
+LM-PR0102,Proveedor LM 102,Tampico,17,5.0
+LM-PR0103,Proveedor LM 103,Saltillo,24,4.7
+LM-PR0104,Proveedor LM 104,Saltillo,15,3.0
+LM-PR0105,Proveedor LM 105,Monterrey,7,3.1
+LM-PR0106,Proveedor LM 106,Guadalupe,30,3.3
+LM-PR0107,Proveedor LM 107,Reynosa,28,3.4
+LM-PR0108,Proveedor LM 108,Escobedo,3,3.4
+LM-PR0109,Proveedor LM 109,Guadalupe,25,3.9
+LM-PR0110,Proveedor LM 110,Tampico,30,3.9
+LM-PR0111,Proveedor LM 111,Monterrey,15,3.0
+LM-PR0112,Proveedor LM 112,San Nicolás,15,3.2
+LM-PR0113,Proveedor LM 113,San Nicolás,15,4.5
+LM-PR0114,Proveedor LM 114,San Pedro,14,4.3
+LM-PR0115,Proveedor LM 115,Escobedo,13,5.0
+LM-PR0116,Proveedor LM 116,Monterrey,4,4.6
+LM-PR0117,Proveedor LM 117,San Pedro,14,2.8
+LM-PR0118,Proveedor LM 118,Monterrey,18,4.8
+LM-PR0119,Proveedor LM 119,Apodaca,7,3.1
+LM-PR0120,Proveedor LM 120,Santa Catarina,20,4.5
+LM-PR0121,Proveedor LM 121,Guadalupe,3,4.0
+LM-PR0122,Proveedor LM 122,Monterrey,12,4.0
+LM-PR0123,Proveedor LM 123,Guadalupe,18,3.1
+LM-PR0124,Proveedor LM 124,Reynosa,6,3.8
+LM-PR0125,Proveedor LM 125,Apodaca,10,4.6
+LM-PR0126,Proveedor LM 126,Santa Catarina,23,2.8
+LM-PR0127,Proveedor LM 127,Reynosa,15,5.0
+LM-PR0128,Proveedor LM 128,Santa Catarina,24,4.8
+LM-PR0129,Proveedor LM 129,Escobedo,4,3.7
+LM-PR0130,Proveedor LM 130,Monterrey,27,3.1
+LM-PR0131,Proveedor LM 131,Tampico,12,2.9
+LM-PR0132,Proveedor LM 132,Santa Catarina,3,3.1
+LM-PR0133,Proveedor LM 133,San Pedro,14,4.4
+LM-PR0134,Proveedor LM 134,Apodaca,25,4.8
+LM-PR0135,Proveedor LM 135,Reynosa,14,3.4
+LM-PR0136,Proveedor LM 136,Saltillo,9,3.9
+LM-PR0137,Proveedor LM 137,Monterrey,23,4.4
+LM-PR0138,Proveedor LM 138,Tampico,24,4.2
+LM-PR0139,Proveedor LM 139,Escobedo,27,4.1
+LM-PR0140,Proveedor LM 140,Escobedo,24,4.9
+LM-PR0141,Proveedor LM 141,Monterrey,12,3.7
+LM-PR0142,Proveedor LM 142,Tampico,6,3.9
+LM-PR0143,Proveedor LM 143,San Pedro,8,3.9
+LM-PR0144,Proveedor LM 144,Santa Catarina,4,3.3
+LM-PR0145,Proveedor LM 145,San Nicolás,16,5.0
+LM-PR0146,Proveedor LM 146,Monterrey,20,3.8
+LM-PR0147,Proveedor LM 147,Apodaca,24,4.9
+LM-PR0148,Proveedor LM 148,Santa Catarina,14,4.1
+LM-PR0149,Proveedor LM 149,Saltillo,14,4.3
+LM-PR0150,Proveedor LM 150,Monterrey,8,2.9
+LM-PR0151,Proveedor LM 151,Tampico,27,4.0
+LM-PR0152,Proveedor LM 152,San Pedro,22,3.3
+LM-PR0153,Proveedor LM 153,Apodaca,26,2.9
+LM-PR0154,Proveedor LM 154,Guadalupe,28,3.1
+LM-PR0155,Proveedor LM 155,Apodaca,29,4.7
+LM-PR0156,Proveedor LM 156,San Nicolás,21,4.9
+LM-PR0157,Proveedor LM 157,Tampico,10,4.6
+LM-PR0158,Proveedor LM 158,San Pedro,6,4.3
+LM-PR0159,Proveedor LM 159,Escobedo,23,4.1
+LM-PR0160,Proveedor LM 160,Santa Catarina,2,4.8
+LM-PR0161,Proveedor LM 161,Saltillo,25,3.0
+LM-PR0162,Proveedor LM 162,San Nicolás,12,3.4
+LM-PR0163,Proveedor LM 163,Santa Catarina,18,2.9
+LM-PR0164,Proveedor LM 164,Reynosa,30,3.4
+LM-PR0165,Proveedor LM 165,Saltillo,3,4.1
+LM-PR0166,Proveedor LM 166,Escobedo,28,2.9
+LM-PR0167,Proveedor LM 167,Tampico,13,4.1
+LM-PR0168,Proveedor LM 168,Santa Catarina,15,4.8
+LM-PR0169,Proveedor LM 169,Escobedo,4,4.1
+LM-PR0170,Proveedor LM 170,San Nicolás,21,4.8

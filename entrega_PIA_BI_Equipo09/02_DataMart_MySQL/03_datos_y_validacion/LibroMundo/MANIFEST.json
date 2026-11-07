@@ -1,0 +1,16 @@
+{
+  "empresa": "LibroMundo",
+  "sector": "Libros, papelería y juegos",
+  "codigo": "LM",
+  "registros": {
+    "ventas": 145000,
+    "detalle_ventas": 343281,
+    "clientes": 11400,
+    "productos": 1420,
+    "sucursales": 17,
+    "proveedores": 170,
+    "inventario": 24140,
+    "compras": 13500,
+    "devoluciones": 10298
+  }
+}
